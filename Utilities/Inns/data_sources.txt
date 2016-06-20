@@ -1,0 +1,6 @@
+################################################################################
+#	Inn Data Sources
+################################################################################
+
+Donjon: 	https://donjon.bin.sh/fantasy/inn/
+Wizards: 	https://www.wizards.com/dnd/tavern/Welcome.asp
