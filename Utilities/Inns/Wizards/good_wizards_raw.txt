@@ -1,0 +1,4419 @@
+
+
+  	
+	Generate Tavern
+Tavern Name: Sign of the Jug
+Bartender: Male dwarf, 1st-level NPC warrior
+Interesting Clientele: Party of rowdy dwarves, a group of dicing rogues.
+Rumors Overheard: An ancient curse is turning innocent people into evil murderers. A caravan of important goods is about to leave for a trip through a dangerous area. Evil nobles have created an adventurers’ guild to monitor and control adventurers.
+Accommodations: Good (a small private room with one bed, some amenities and a covered chamber pot) for 5 sp/day
+Today's Menu: 
+Breakfast: Kippers, Duck eggs, Chicken eggs, Blackberries, Rice (cost 6sp).
+Lunch: Eagle breast, Curds, Potato, Apple (cost 8sp).
+Supper: Darkmantle, Chick peas, Yams, Corn pone, Walnut cake (cost 1gp).
+Snack: Goose eggs, Raisins, Rice (cost 4sp).
+ 
+
+
+Welcome to the Sign of the Jug
+Today's Menu
+
+Breakfast
+Kippers
+Duck eggs
+Chicken eggs
+Blackberries
+Rice
+6sp
+
+Lunch
+Eagle breast
+Curds
+Potato
+Apple
+8sp
+
+Supper
+Darkmantle
+Chick peas
+Yams
+Corn pone
+Walnut cake
+1gp
+
+Snack
+Goose eggs
+Raisins
+Rice
+4sp
+
+  	
+	Generate Tavern
+Tavern Name: Brave Bow
+Bartender: Male half-elf, 1st-level ranger
+Interesting Clientele: A press-gang collecting drunks, adventurers planing their next move.
+Rumors Overheard: An island at the center of the lake is actually the top of a strange, submerged fortress. Evil nobles have created an adventurers’ guild to monitor and control adventurers. A dragon has flown into a town and demanded tribute.
+Accommodations: Good (a small private room with one bed, some amenities and a covered chamber pot) for 5 sp/day
+Today's Menu: 
+Breakfast: Smoked sausage, Curds, Quail eggs, Melon, Oatmeal (cost 6sp).
+Lunch: Veal sweetbreads, Sharp cheese, Collard greens, Blackberries (cost 8sp).
+Supper: Broiled catfish, Peas, Green beans, Flatbread, Mince pie (cost 1gp).
+Snack: Sharp cheese, Melon, Rice (cost 4sp).
+ 
+
+
+Welcome to the Brave Bow
+Today's Menu
+
+Breakfast
+Smoked sausage
+Curds
+Quail eggs
+Melon
+Oatmeal
+6sp
+
+Lunch
+Veal sweetbreads
+Sharp cheese
+Collard greens
+Blackberries
+8sp
+
+Supper
+Broiled catfish
+Peas
+Green beans
+Flatbread
+Mince pie
+1gp
+
+Snack
+Sharp cheese
+Melon
+Rice
+4sp
+
+  	
+	Generate Tavern
+Tavern Name: Pale Hero
+Bartender: Female half-elf, 2nd-level fighter
+Interesting Clientele: Cloaked figure in corner, halfling tourists.
+Rumors Overheard: The tomb of an old wizard has been discovered. Bugbears are demanding a toll on a well-traveled bridge. A clutch of wyverns is preying upon sheep as well as shepherds.
+Accommodations: Good (a small private room with one bed, some amenities and a covered chamber pot) for 5 sp/day
+Today's Menu: 
+Breakfast: Kippers, Dragon turtle omelet, Curds, Strawberries, Corn pone (cost 6sp).
+Lunch: Rabbit stew, Curds, Corn, Apple (cost 8sp).
+Supper: Owlbear chop, Turnips, Onions, Rice, Rice pudding (cost 1gp).
+Snack: Soft cheese, Apple, Nut bread (cost 4sp).
+ 
+
+
+Welcome to the Pale Hero
+Today's Menu
+
+Breakfast
+Kippers
+Dragon turtle omelet
+Curds
+Strawberries
+Corn pone
+6sp
+
+Lunch
+Rabbit stew
+Curds
+Corn
+Apple
+8sp
+
+Supper
+Owlbear chop
+Turnips
+Onions
+Rice
+Rice pudding
+1gp
+
+Snack
+Soft cheese
+Apple
+Nut bread
+4sp
+
+  	
+	Generate Tavern
+Tavern Name: Lovely Elf
+Bartender: Male half-ogre, 3rd-level ranger
+Interesting Clientele: Adventurers planing their next move, carnies out on the town.
+Rumors Overheard: An enchanter is compelling others to steal for him. The keys to disarming all the magic traps in a wizard’s tower have gone missing. Two orc tribes wage a bloody war.
+Accommodations: Good (a small private room with one bed, some amenities and a covered chamber pot) for 5 sp/day
+Today's Menu: 
+Breakfast: Meatballs, Chicken eggs, Duck eggs, Stewed prunes, Nut bread (cost 6sp).
+Lunch: Lamb stew, Deep dwarven blue cheese, Corn, Apple (cost 8sp).
+Supper: Pork liver, Onions, Potato, Nut bread, Walnut cake (cost 1gp).
+Snack: Soft cheese, Dates, Flatbread (cost 4sp).
+ 
+
+
+Welcome to the Lovely Elf
+Today's Menu
+
+Breakfast
+Meatballs
+Chicken eggs
+Duck eggs
+Stewed prunes
+Nut bread
+6sp
+
+Lunch
+Lamb stew
+Deep dwarven blue cheese
+Corn
+Apple
+8sp
+
+Supper
+Pork liver
+Onions
+Potato
+Nut bread
+Walnut cake
+1gp
+
+Snack
+Soft cheese
+Dates
+Flatbread
+4sp
+
+  	
+	Generate Tavern
+Tavern Name: Adventuring Elf
+Bartender: Male halfling, 10th-level fighter
+Interesting Clientele: A sorcerer selling spells, a snobby aristocrat.
+Rumors Overheard: A gate to the Lower Planes threatens to bring more demons to the world. Goblins riding spider eaters have been attacking the outskirts of a town. All the dwarves in an underground city have disappeared.
+Accommodations: Good (a small private room with one bed, some amenities and a covered chamber pot) for 5 sp/day
+Today's Menu: 
+Breakfast: Blood pudding, Soft cheese, Goose eggs, Stewed prunes, Millet (cost 6sp).
+Lunch: Veal sweetbreads, Chicken eggs, Potato, Blackberries (cost 8sp).
+Supper: Pork liver, Broccoli, Leeks, Flatbread, Fruitcake (cost 1gp).
+Snack: Goose eggs, Pear, Corn pone (cost 4sp).
+ 
+
+
+Welcome to the Adventuring Elf
+Today's Menu
+
+Breakfast
+Blood pudding
+Soft cheese
+Goose eggs
+Stewed prunes
+Millet
+6sp
+
+Lunch
+Veal sweetbreads
+Chicken eggs
+Potato
+Blackberries
+8sp
+
+Supper
+Pork liver
+Broccoli
+Leeks
+Flatbread
+Fruitcake
+1gp
+
+Snack
+Goose eggs
+Pear
+Corn pone
+4sp
+
+  	
+	Generate Tavern
+Tavern Name: Adventuring Unicorn
+Bartender: Female elf, 6th-level barbarian
+Interesting Clientele: Halfling tourists, cleric of Pelor preaching in corner.
+Rumors Overheard: A halfling caravan must pass through an ankheg-infested wilderness. A mirror of opposition has created an evil duplicate of a hero. A caravan of important goods is about to leave for a trip through a dangerous area.
+Accommodations: Good (a small private room with one bed, some amenities and a covered chamber pot) for 5 sp/day
+Today's Menu: 
+Breakfast: Smoked sausage, Duck eggs, Sharp cheese, Currants, Corn pone (cost 6sp).
+Lunch: Pork chop, Duck eggs, Carrots, Blueberries (cost 8sp).
+Supper: Broiled catfish, Peas, Onions, Mush, Custard (cost 1gp).
+Snack: Chicken eggs, Apple, Nut bread (cost 4sp).
+ 
+
+
+Welcome to the Adventuring Unicorn
+Today's Menu
+
+Breakfast
+Smoked sausage
+Duck eggs
+Sharp cheese
+Currants
+Corn pone
+6sp
+
+Lunch
+Pork chop
+Duck eggs
+Carrots
+Blueberries
+8sp
+
+Supper
+Broiled catfish
+Peas
+Onions
+Mush
+Custard
+1gp
+
+Snack
+Chicken eggs
+Apple
+Nut bread
+4sp
+
+  	
+	Generate Tavern
+Tavern Name: Silly Cup
+Bartender: Male half-elf, 6th-level barbarian
+Interesting Clientele: Town guard captain having a meal, a bard performing for drinks.
+Rumors Overheard: An earthquake has uncovered a previously unknown dungeon. A haunted tower is reputed to be filled with treasure. Someone is sabotaging wagons and carts to come apart when they travel at high speed.
+Accommodations: Good (a small private room with one bed, some amenities and a covered chamber pot) for 5 sp/day
+Today's Menu: 
+Breakfast: Kippers, Curds, Quail eggs, Pear, Nut bread (cost 6sp).
+Lunch: Leg of mutton, Soft cheese, Spinach, Blackberries (cost 8sp).
+Supper: Lamb chop, Green beans, Black beans, Millet, Custard (cost 1gp).
+Snack: Goose eggs, Blackberries, Millet (cost 4sp).
+ 
+
+
+Welcome to the Silly Cup
+Today's Menu
+
+Breakfast
+Kippers
+Curds
+Quail eggs
+Pear
+Nut bread
+6sp
+
+Lunch
+Leg of mutton
+Soft cheese
+Spinach
+Blackberries
+8sp
+
+Supper
+Lamb chop
+Green beans
+Black beans
+Millet
+Custard
+1gp
+
+Snack
+Goose eggs
+Blackberries
+Millet
+4sp
+
+  	
+	Generate Tavern
+Tavern Name: Sorrowful Plate
+Bartender: Male half-elf, 1st-level rogue
+Interesting Clientele: Guardsmen on a stake-out, carnies out on the town.
+Rumors Overheard: Bugbears are demanding a toll on a well-traveled bridge. Undead shadows vex a large library, especially an old storeroom long left undisturbed. Wealthy merchants are being killed in their homes.
+Accommodations: Good (a small private room with one bed, some amenities and a covered chamber pot) for 5 sp/day
+Today's Menu: 
+Breakfast: Dog stew, Griffin-milk cheese, Goose eggs, Breadfruit, Millet (cost 1gp).
+Lunch: Leg of mutton, Chicken eggs, Green beans, Peach (cost 8sp).
+Supper: Whole duck, Chick peas, Carrots, Oatmeal, Fruitcake (cost 1gp).
+Snack: Duck eggs, Stewed prunes, Coarse rye bread (cost 4sp).
+ 
+
+
+Welcome to the Sorrowful Plate
+Today's Menu
+
+Breakfast
+Dog stew
+Griffin-milk cheese
+Goose eggs
+Breadfruit
+Millet
+1gp
+
+Lunch
+Leg of mutton
+Chicken eggs
+Green beans
+Peach
+8sp
+
+Supper
+Whole duck
+Chick peas
+Carrots
+Oatmeal
+Fruitcake
+1gp
+
+Snack
+Duck eggs
+Stewed prunes
+Coarse rye bread
+4sp
+
+  	
+	Generate Tavern
+Tavern Name: Silly Cup
+Bartender: Female dwarf, 5th-level NPC warrior
+Interesting Clientele: Company of drunken adventurers, guardsmen on a stake-out.
+Rumors Overheard: A lonely mountain pass is guarded by a powerful sphinx denying all passage. Gargoyles are killing giant eagles in the mountains. At the eye of the storm that tears across the land lies a floating citadel.
+Accommodations: Good (a small private room with one bed, some amenities and a covered chamber pot) for 5 sp/day
+Today's Menu: 
+Breakfast: Ham, Duck eggs, Chicken eggs, Apple, Mush (cost 6sp).
+Lunch: Sausage, Soft cheese, Yams, Raspberries (cost 8sp).
+Supper: Pork liver, Seaweed, Taro, Millet, Raisin pie (cost 1gp).
+Snack: Curds, Dates, Mush (cost 4sp).
+ 
+
+
+Welcome to the Silly Cup
+Today's Menu
+
+Breakfast
+Ham
+Duck eggs
+Chicken eggs
+Apple
+Mush
+6sp
+
+Lunch
+Sausage
+Soft cheese
+Yams
+Raspberries
+8sp
+
+Supper
+Pork liver
+Seaweed
+Taro
+Millet
+Raisin pie
+1gp
+
+Snack
+Curds
+Dates
+Mush
+4sp
+
+  	
+	Generate Tavern
+Tavern Name: Pious Warrior
+Bartender: Male dwarf, 4th-level ranger
+Interesting Clientele: Group of singing halflings, a press-gang collecting drunks.
+Rumors Overheard: Unexplained snowstorms have brought winter wolves into an otherwise peaceful area. The holy symbol of a high priest is missing. Adventurers exploring a dungeon have not returned in a week.
+Accommodations: Good (a small private room with one bed, some amenities and a covered chamber pot) for 5 sp/day
+Today's Menu: 
+Breakfast: Beef steak, Chicken eggs, Sharp cheese, Dates, Millet (cost 6sp).
+Lunch: Chicken half, Goose eggs, Carrots, Apple (cost 8sp).
+Supper: Pork liver, Black beans, Onions, Mush, Toffee (cost 1gp).
+Snack: Curds, Peach, Nut bread (cost 4sp).
+ 
+
+
+Welcome to the Pious Warrior
+Today's Menu
+
+Breakfast
+Beef steak
+Chicken eggs
+Sharp cheese
+Dates
+Millet
+6sp
+
+Lunch
+Chicken half
+Goose eggs
+Carrots
+Apple
+8sp
+
+Supper
+Pork liver
+Black beans
+Onions
+Mush
+Toffee
+1gp
+
+Snack
+Curds
+Peach
+Nut bread
+4sp
+
+  	
+	Generate Tavern
+Tavern Name: Emerald Axe
+Bartender: Male half-elf, 2nd-level ranger
+Interesting Clientele: Dwarf buying rounds for the house, company of drunken adventurers.
+Rumors Overheard: A plague brought by wererats threatens a community. The funeral for a good fighter was disrupted by enemies he made while alive. Barge pirates have made a deal with a covey of hags and exact a high toll to use the river.
+Accommodations: Good (a small private room with one bed, some amenities and a covered chamber pot) for 5 sp/day
+Today's Menu: 
+Breakfast: Blood pudding, Chicken eggs, Deep dwarven blue cheese, Guava, Corn pone (cost 6sp).
+Lunch: Chicken half, Soft cheese, Potato, Strawberries (cost 8sp).
+Supper: Beef steak, Chick peas, Green beans, Centaur rye, Rhubarb pie (cost 1gp).
+Snack: Sharp cheese, Dates, Coarse rye bread (cost 4sp).
+ 
+
+
+Welcome to the Emerald Axe
+Today's Menu
+
+Breakfast
+Blood pudding
+Chicken eggs
+Deep dwarven blue cheese
+Guava
+Corn pone
+6sp
+
+Lunch
+Chicken half
+Soft cheese
+Potato
+Strawberries
+8sp
+
+Supper
+Beef steak
+Chick peas
+Green beans
+Centaur rye
+Rhubarb pie
+1gp
+
+Snack
+Sharp cheese
+Dates
+Coarse rye bread
+4sp
+
+  	
+	Generate Tavern
+Tavern Name: Pious Bed
+Bartender: Male half-orc, 8th-level NPC warrior
+Interesting Clientele: Party of rowdy dwarves, youngsters on a lark.
+Rumors Overheard: Treants in the woods are threatened by a huge fire of mysterious origin. Barbarians have torn up a village in a violent rage. A haunted tower is reputed to be filled with treasure.
+Accommodations: Good (a small private room with one bed, some amenities and a covered chamber pot) for 5 sp/day
+Today's Menu: 
+Breakfast: Smoked sausage, Quail eggs, Duck eggs, Raspberries, Coarse rye bread (cost 6sp).
+Lunch: Leg of mutton, Chicken eggs, Yams, Peach (cost 8sp).
+Supper: Broiled catfish, Succotash, Cabbage, Corn pone, Pecan pie (cost 1gp).
+Snack: Deep dwarven blue cheese, Strawberries, Oatmeal (cost 4sp).
+ 
+
+
+Welcome to the Pious Bed
+Today's Menu
+
+Breakfast
+Smoked sausage
+Quail eggs
+Duck eggs
+Raspberries
+Coarse rye bread
+6sp
+
+Lunch
+Leg of mutton
+Chicken eggs
+Yams
+Peach
+8sp
+
+Supper
+Broiled catfish
+Succotash
+Cabbage
+Corn pone
+Pecan pie
+1gp
+
+Snack
+Deep dwarven blue cheese
+Strawberries
+Oatmeal
+4sp
+
+  	
+	Generate Tavern
+Tavern Name: Sad Brewery
+Bartender: Male half-ogre, 4th-level barbarian
+Interesting Clientele: Grim paladins on crusade, cleric of Pelor preaching in corner.
+Rumors Overheard: Evil nobles have created an adventurers’ guild to monitor and control adventurers. Local bandits have joined forces with a tribe of bugbears. A woman who mysteriously vanished years ago has been seen walking on the surface of a lake.
+Accommodations: Good (a small private room with one bed, some amenities and a covered chamber pot) for 5 sp/day
+Today's Menu: 
+Breakfast: Smoked sausage, Duck eggs, Curds, Currants, Nut bread (cost 6sp).
+Lunch: Rabbit stew, Goose eggs, Onions, Peach (cost 8sp).
+Supper: Owlbear chop, Artichoke, Succotash, Rice, Rice pudding (cost 2gp).
+Snack: Soft cheese, Apple, Mush (cost 4sp).
+ 
+
+
+Welcome to the Sad Brewery
+Today's Menu
+
+Breakfast
+Smoked sausage
+Duck eggs
+Curds
+Currants
+Nut bread
+6sp
+
+Lunch
+Rabbit stew
+Goose eggs
+Onions
+Peach
+8sp
+
+Supper
+Owlbear chop
+Artichoke
+Succotash
+Rice
+Rice pudding
+2gp
+
+Snack
+Soft cheese
+Apple
+Mush
+4sp
+
+  	
+	Generate Tavern
+Tavern Name: Adventuring Plate
+Bartender: Female gnome, 3rd-level rogue
+Interesting Clientele: Halfling tourists, a wizard deep in his cups.
+Rumors Overheard: A druid needs help defending her grove against goblins. Barbarians have torn up a village in a violent rage. A huge dire wolf, apparently immune to magic, is organizing the wolves in the wood.
+Accommodations: Good (a small private room with one bed, some amenities and a covered chamber pot) for 5 sp/day
+Today's Menu: 
+Breakfast: Meatballs, Soft cheese, Curds, Currants, Millet (cost 6sp).
+Lunch: Veal sweetbreads, Chicken eggs, Spinach, Apple (cost 8sp).
+Supper: Stuffed trout, Yams, Succotash, Nut bread, Mince pie (cost 1gp).
+Snack: Chicken eggs, Stewed prunes, Mush (cost 4sp).
+ 
+
+
+Welcome to the Adventuring Plate
+Today's Menu
+
+Breakfast
+Meatballs
+Soft cheese
+Curds
+Currants
+Millet
+6sp
+
+Lunch
+Veal sweetbreads
+Chicken eggs
+Spinach
+Apple
+8sp
+
+Supper
+Stuffed trout
+Yams
+Succotash
+Nut bread
+Mince pie
+1gp
+
+Snack
+Chicken eggs
+Stewed prunes
+Mush
+4sp
+
+  	
+	Generate Tavern
+Tavern Name: Goodly Gargoyle
+Bartender: Female dwarf, 8th-level fighter
+Interesting Clientele: Cleric of Pelor preaching in corner, company of stalwart adventurers.
+Rumors Overheard: A nearby kingdom has launched an invasion. The door into an abandoned house in the middle of town is in fact a magic portal. Lizardfolk riding dragon turtles sell their services as mercenaries to the highest bidder.
+Accommodations: Good (a small private room with one bed, some amenities and a covered chamber pot) for 5 sp/day
+Today's Menu: 
+Breakfast: Meatballs, Deep dwarven blue cheese, Goose eggs, Pear, Corn pone (cost 6sp).
+Lunch: Triceratops steak, Chicken eggs, Lentils, Pear (cost 8sp).
+Supper: Pork liver, Broad beans, Shrieker steak, Nut bread, Berry pie (cost 1gp).
+Snack: Sharp cheese, Blueberries, Rice (cost 4sp).
+ 
+
+
+Welcome to the Goodly Gargoyle
+Today's Menu
+
+Breakfast
+Meatballs
+Deep dwarven blue cheese
+Goose eggs
+Pear
+Corn pone
+6sp
+
+Lunch
+Triceratops steak
+Chicken eggs
+Lentils
+Pear
+8sp
+
+Supper
+Pork liver
+Broad beans
+Shrieker steak
+Nut bread
+Berry pie
+1gp
+
+Snack
+Sharp cheese
+Blueberries
+Rice
+4sp
+
+  	
+	Generate Tavern
+Tavern Name: Sorrowful Elf
+Bartender: Male elf, 1st-level rogue
+Interesting Clientele: A couple on a date, soft-spoken traveling monks.
+Rumors Overheard: Gargoyles are killing giant eagles in the mountains. A lonely mountain pass is guarded by a powerful sphinx denying all passage. A strange green smoke billows out of a cave near a mysterious ruin.
+Accommodations: Good (a small private room with one bed, some amenities and a covered chamber pot) for 5 sp/day
+Today's Menu: 
+Breakfast: Beef steak, Sharp cheese, Duck eggs, Apple, Sunflower loaf (cost 6sp).
+Lunch: Rabbit stew, Duck eggs, Cabbage, Peach (cost 8sp).
+Supper: Pork liver, Broad beans, Seaweed, Flatbread, Berry pie (cost 1gp).
+Snack: Curds, Blackberries, Nut bread (cost 4sp).
+ 
+
+
+Welcome to the Sorrowful Elf
+Today's Menu
+
+Breakfast
+Beef steak
+Sharp cheese
+Duck eggs
+Apple
+Sunflower loaf
+6sp
+
+Lunch
+Rabbit stew
+Duck eggs
+Cabbage
+Peach
+8sp
+
+Supper
+Pork liver
+Broad beans
+Seaweed
+Flatbread
+Berry pie
+1gp
+
+Snack
+Curds
+Blackberries
+Nut bread
+4sp
+
+  	
+	Generate Tavern
+Tavern Name: Sad Fiend
+Bartender: Male half-orc, 9th-level fighter
+Interesting Clientele: Halfling tourists, a fighter looking for trouble.
+Rumors Overheard: A fire elemental has escaped from a wizard’s lab. A nearby kingdom has launched an invasion. A sorcerer attempted to travel ethereally but disappeared completely in the process.
+Accommodations: Good (a small private room with one bed, some amenities and a covered chamber pot) for 5 sp/day
+Today's Menu: 
+Breakfast: Kippers, Griffin-milk cheese, Soft cheese, Currants, Mush (cost 6sp).
+Lunch: Lamb stew, Curds, Potato, Currants (cost 8sp).
+Supper: Wild boar headcheese, Collard greens, Peas, Rice, Applesauce (cost 1gp).
+Snack: Goose eggs, Strawberries, Nut bread (cost 4sp).
+ 
+
+
+Welcome to the Sad Fiend
+Today's Menu
+
+Breakfast
+Kippers
+Griffin-milk cheese
+Soft cheese
+Currants
+Mush
+6sp
+
+Lunch
+Lamb stew
+Curds
+Potato
+Currants
+8sp
+
+Supper
+Wild boar headcheese
+Collard greens
+Peas
+Rice
+Applesauce
+1gp
+
+Snack
+Goose eggs
+Strawberries
+Nut bread
+4sp
+
+  	
+	Generate Tavern
+Tavern Name: Silly Gnome
+Bartender: Female half-elf, 10th-level NPC aristocrat
+Interesting Clientele: A sorcerer selling spells, a ranger looking for her wolf.
+Rumors Overheard: A wizard is buried in a trap-filled tomb with her powerful magic items. A paladin’s quest for atonement led her to a troll lair too well-defended for her to tackle alone. New construction reveals a previously unknown underground tomb.
+Accommodations: Good (a small private room with one bed, some amenities and a covered chamber pot) for 5 sp/day
+Today's Menu: 
+Breakfast: Hash, Gnomes’ yogurt, Sharp cheese, Peach, Millet (cost 6sp).
+Lunch: Frog legs, Sharp cheese, Cabbage, Strawberries (cost 2gp).
+Supper: Lamb chop, Lentils, Succotash, Pine nuts, Fruitcake (cost 1gp).
+Snack: Sharp cheese, Raisins, Corn pone (cost 4sp).
+ 
+
+
+Welcome to the Silly Gnome
+Today's Menu
+
+Breakfast
+Hash
+Gnomes’ yogurt
+Sharp cheese
+Peach
+Millet
+6sp
+
+Lunch
+Frog legs
+Sharp cheese
+Cabbage
+Strawberries
+2gp
+
+Supper
+Lamb chop
+Lentils
+Succotash
+Pine nuts
+Fruitcake
+1gp
+
+Snack
+Sharp cheese
+Raisins
+Corn pone
+4sp
+
+  	
+	Generate Tavern
+Tavern Name: Laughing Plate
+Bartender: Male half-ogre, 4th-level bard
+Interesting Clientele: Cleric of Pelor preaching in corner, a press-gang collecting drunks.
+Rumors Overheard: A strange green smoke billows out of a cave near a mysterious ruin. Evil clerics gather in secret to summon a monstrous god to the world. Barge pirates have made a deal with a covey of hags and exact a high toll to use the river.
+Accommodations: Good (a small private room with one bed, some amenities and a covered chamber pot) for 5 sp/day
+Today's Menu: 
+Breakfast: Bacon, Goose eggs, Griffin-milk cheese, Currants, Nut bread (cost 6sp).
+Lunch: Triceratops steak, Duck eggs, Turnips, Apple (cost 8sp).
+Supper: Lamb chop, Turnips, Leeks, Rice, Spice bread (cost 1gp).
+Snack: Curds, Blueberries, Rice (cost 4sp).
+ 
+
+
+Welcome to the Laughing Plate
+Today's Menu
+
+Breakfast
+Bacon
+Goose eggs
+Griffin-milk cheese
+Currants
+Nut bread
+6sp
+
+Lunch
+Triceratops steak
+Duck eggs
+Turnips
+Apple
+8sp
+
+Supper
+Lamb chop
+Turnips
+Leeks
+Rice
+Spice bread
+1gp
+
+Snack
+Curds
+Blueberries
+Rice
+4sp
+
+  	
+	Generate Tavern
+Tavern Name: Silly Devil
+Bartender: Male halfling, 4th-level barbarian
+Interesting Clientele: A press-gang collecting drunks, a group of dicing rogues.
+Rumors Overheard: The tomb of an old wizard has been discovered. Mysterious groaning sounds come from a haunted wood at night. A wizard is buried in a trap-filled tomb with her powerful magic items.
+Accommodations: Good (a small private room with one bed, some amenities and a covered chamber pot) for 5 sp/day
+Today's Menu: 
+Breakfast: Fried perch, Curds, Deep dwarven blue cheese, Pear, Corn pone (cost 6sp).
+Lunch: Rabbit stew, Duck eggs, Broccoli, Currants (cost 8sp).
+Supper: Octopus, Cabbage, Collard greens, Millet, Applesauce (cost 1gp).
+Snack: Sharp cheese, Blackberries, Centaur rye (cost 4sp).
+ 
+
+
+Welcome to the Silly Devil
+Today's Menu
+
+Breakfast
+Fried perch
+Curds
+Deep dwarven blue cheese
+Pear
+Corn pone
+6sp
+
+Lunch
+Rabbit stew
+Duck eggs
+Broccoli
+Currants
+8sp
+
+Supper
+Octopus
+Cabbage
+Collard greens
+Millet
+Applesauce
+1gp
+
+Snack
+Sharp cheese
+Blackberries
+Centaur rye
+4sp
+
+  	
+	Generate Tavern
+Tavern Name: Fiery Fiend
+Bartender: Male human, 8th-level cleric
+Interesting Clientele: Cloaked figure in corner, a sorcerer selling spells.
+Rumors Overheard: Buried below the Tree of the World lies the Master Clock of Time. A mirror of opposition has created an evil duplicate of a hero. Mysterious merchants sell faulty magic items in town and then attempt to slink away.
+Accommodations: Good (a small private room with one bed, some amenities and a covered chamber pot) for 5 sp/day
+Today's Menu: 
+Breakfast: Ham, Soft cheese, Goose eggs, Dates, Nut bread (cost 6sp).
+Lunch: Sausage, Duck eggs, Lentils, Raspberries (cost 8sp).
+Supper: Pork liver, Carrots, Broad beans, Coarse rye bread, Spice bread (cost 1gp).
+Snack: Sharp cheese, Raspberries, Sunflower loaf (cost 4sp).
+ 
+
+
+Welcome to the Fiery Fiend
+Today's Menu
+
+Breakfast
+Ham
+Soft cheese
+Goose eggs
+Dates
+Nut bread
+6sp
+
+Lunch
+Sausage
+Duck eggs
+Lentils
+Raspberries
+8sp
+
+Supper
+Pork liver
+Carrots
+Broad beans
+Coarse rye bread
+Spice bread
+1gp
+
+Snack
+Sharp cheese
+Raspberries
+Sunflower loaf
+4sp
+
+  	
+	Generate Tavern
+Tavern Name: Massacred Sword
+Bartender: Male half-orc, 5th-level rogue
+Interesting Clientele: A bard performing for drinks, a wizard deep in his cups.
+Rumors Overheard: A prophecy foretells of coming doom unless an artifact is -recovered. Miners have accidentally released something awful that once was buried deep. The keys to disarming all the magic traps in a wizard’s tower have gone missing.
+Accommodations: Good (a small private room with one bed, some amenities and a covered chamber pot) for 5 sp/day
+Today's Menu: 
+Breakfast: Fried perch, Sharp cheese, Deep dwarven blue cheese, Melon, Mush (cost 6sp).
+Lunch: Sausage, Soft cheese, Leeks, Strawberries (cost 8sp).
+Supper: Broiled catfish, Peas, Collard greens, Nut bread, Wood-elven crisp cakes (cost 1gp).
+Snack: Curds, Coconut, Wild rice (cost 4sp).
+ 
+
+
+Welcome to the Massacred Sword
+Today's Menu
+
+Breakfast
+Fried perch
+Sharp cheese
+Deep dwarven blue cheese
+Melon
+Mush
+6sp
+
+Lunch
+Sausage
+Soft cheese
+Leeks
+Strawberries
+8sp
+
+Supper
+Broiled catfish
+Peas
+Collard greens
+Nut bread
+Wood-elven crisp cakes
+1gp
+
+Snack
+Curds
+Coconut
+Wild rice
+4sp
+
+  	
+	Generate Tavern
+Tavern Name: Silly Tankard
+Bartender: Male halfling, 7th-level NPC warrior
+Interesting Clientele: Company of stalwart adventurers, an assassin secretly biding his time.
+Rumors Overheard: A certain type of frogs, found only in an isolated valley, fall like rain on a major city. A jealous rival threatens to stop a well-attended wedding. Two well-known heroes will soon fight a duel.
+Accommodations: Good (a small private room with one bed, some amenities and a covered chamber pot) for 5 sp/day
+Today's Menu: 
+Breakfast: Bacon, Sharp cheese, Chicken eggs, Strawberries, Millet (cost 6sp).
+Lunch: Basilisk tail, Goose eggs, Giant bean, Pear (cost 8sp).
+Supper: Stuffed trout, Lentils, Leeks, Flatbread, Pecan pie (cost 1gp).
+Snack: Goose eggs, Raspberries, Coarse rye bread (cost 4sp).
+ 
+
+
+Welcome to the Silly Tankard
+Today's Menu
+
+Breakfast
+Bacon
+Sharp cheese
+Chicken eggs
+Strawberries
+Millet
+6sp
+
+Lunch
+Basilisk tail
+Goose eggs
+Giant bean
+Pear
+8sp
+
+Supper
+Stuffed trout
+Lentils
+Leeks
+Flatbread
+Pecan pie
+1gp
+
+Snack
+Goose eggs
+Raspberries
+Coarse rye bread
+4sp
+
+  	
+	Generate Tavern
+Tavern Name: Weary Pony
+Bartender: Female half-elf, 9th-level fighter
+Interesting Clientele: A fighter looking for trouble, group of singing halflings.
+Rumors Overheard: Someone is sabotaging wagons and carts to come apart when they travel at high speed. At the eye of the storm that tears across the land lies a floating citadel. Two well-known heroes will soon fight a duel.
+Accommodations: Good (a small private room with one bed, some amenities and a covered chamber pot) for 5 sp/day
+Today's Menu: 
+Breakfast: Smoked sausage, Goose eggs, Chicken eggs, Peach, Rice (cost 6sp).
+Lunch: Pork chop, Sharp cheese, Udoroot frond, Currants (cost 8sp).
+Supper: Pork liver, Onions, Corn, Corn pone, Walnut cake (cost 1gp).
+Snack: Curds, Sunflower loaf, Oatmeal (cost 8sp).
+ 
+
+
+Welcome to the Weary Pony
+Today's Menu
+
+Breakfast
+Smoked sausage
+Goose eggs
+Chicken eggs
+Peach
+Rice
+6sp
+
+Lunch
+Pork chop
+Sharp cheese
+Udoroot frond
+Currants
+8sp
+
+Supper
+Pork liver
+Onions
+Corn
+Corn pone
+Walnut cake
+1gp
+
+Snack
+Curds
+Sunflower loaf
+Oatmeal
+8sp
+
+  	
+	Generate Tavern
+Tavern Name: Lonesome Moose
+Bartender: Male half-orc, 4th-level cleric
+Interesting Clientele: Company of drunken adventurers, humans gnawing turkey legs.
+Rumors Overheard: Local bandits have joined forces with a tribe of bugbears. The statue in the town square was found to be a petrified paladin. An enchanter is compelling others to steal for him.
+Accommodations: Good (a small private room with one bed, some amenities and a covered chamber pot) for 5 sp/day
+Today's Menu: 
+Breakfast: Blood pudding, Soft cheese, Dragon turtle omelet, Dates, Flatbread (cost 6sp).
+Lunch: Leg of mutton, Soft cheese, Potato, Dates (cost 8sp).
+Supper: Broiled catfish, Lentils, Spinach, Corn pone, Raisin pie (cost 1gp).
+Snack: Deep dwarven blue cheese, Marzipan, Millet (cost 8sp).
+ 
+
+
+Welcome to the Lonesome Moose
+Today's Menu
+
+Breakfast
+Blood pudding
+Soft cheese
+Dragon turtle omelet
+Dates
+Flatbread
+6sp
+
+Lunch
+Leg of mutton
+Soft cheese
+Potato
+Dates
+8sp
+
+Supper
+Broiled catfish
+Lentils
+Spinach
+Corn pone
+Raisin pie
+1gp
+
+Snack
+Deep dwarven blue cheese
+Marzipan
+Millet
+8sp
+
+  	
+	Generate Tavern
+Tavern Name: Blissful Fisher
+Bartender: Male tiefling, 1st-level rogue
+Interesting Clientele: A few anonymous drunks, humans gnawing turkey legs.
+Rumors Overheard: Adventurers exploring a dungeon have not returned in a week. A wizard needs a particularly rare spell component found only in the deep jungle. A jealous rival threatens to stop a well-attended wedding.
+Accommodations: Good (a small private room with one bed, some amenities and a covered chamber pot) for 5 sp/day
+Today's Menu: 
+Breakfast: Hash, Curds, Goose eggs, Currants, Rice (cost 6sp).
+Lunch: Chicken half, Curds, Black beans, Blackberries (cost 8sp).
+Supper: Pork liver, Potato, Corn, Nut bread, Raisin pie (cost 1gp).
+Snack: Quail eggs, Blackberries, Flatbread (cost 4sp).
+ 
+
+
+Welcome to the Blissful Fisher
+Today's Menu
+
+Breakfast
+Hash
+Curds
+Goose eggs
+Currants
+Rice
+6sp
+
+Lunch
+Chicken half
+Curds
+Black beans
+Blackberries
+8sp
+
+Supper
+Pork liver
+Potato
+Corn
+Nut bread
+Raisin pie
+1gp
+
+Snack
+Quail eggs
+Blackberries
+Flatbread
+4sp
+
+  	
+	Generate Tavern
+Tavern Name: Sorrowful Plate
+Bartender: Female half-ogre, 8th-level NPC warrior
+Interesting Clientele: A wizard deep in his cups, a rogue secretly emptying purses.
+Rumors Overheard: The funeral for a good fighter was disrupted by enemies he made while alive. Two well-known heroes will soon fight a duel. A child has wandered into a vast necropolis, and dusk approaches quickly.
+Accommodations: Good (a small private room with one bed, some amenities and a covered chamber pot) for 5 sp/day
+Today's Menu: 
+Breakfast: Kippers, Duck eggs, Soft cheese, Blueberries, Nut bread (cost 6sp).
+Lunch: Rabbit stew, Duck eggs, Spinach, Blueberries (cost 8sp).
+Supper: Pork liver, Potato, Yams, Coarse rye bread, Rice pudding (cost 1gp).
+Snack: Sharp cheese, Peach, Corn pone (cost 4sp).
+ 
+
+
+Welcome to the Sorrowful Plate
+Today's Menu
+
+Breakfast
+Kippers
+Duck eggs
+Soft cheese
+Blueberries
+Nut bread
+6sp
+
+Lunch
+Rabbit stew
+Duck eggs
+Spinach
+Blueberries
+8sp
+
+Supper
+Pork liver
+Potato
+Yams
+Coarse rye bread
+Rice pudding
+1gp
+
+Snack
+Sharp cheese
+Peach
+Corn pone
+4sp
+
+  	
+	Generate Tavern
+Tavern Name: Stalwart Cup
+Bartender: Male halfling, 4th-level cleric
+Interesting Clientele: Cloaked figure in corner, cleric of Pelor preaching in corner.
+Rumors Overheard: Slavers continue to raid a local community. Mysterious merchants sell faulty magic items in town and then attempt to slink away. Thieves steal a great treasure and flee into Mordenkainen’s magnificent mansion.
+Accommodations: Good (a small private room with one bed, some amenities and a covered chamber pot) for 5 sp/day
+Today's Menu: 
+Breakfast: Meatballs, Deep dwarven blue cheese, Soft cheese, Raspberries, Sea oats (cost 6sp).
+Lunch: Chicken half, Sharp cheese, Black beans, Raspberries (cost 8sp).
+Supper: Lamb chop, Broccoli, Peas, Oatmeal, Fruitcake (cost 1gp).
+Snack: Soft cheese, Blueberries, Centaur rye (cost 4sp).
+ 
+
+
+Welcome to the Stalwart Cup
+Today's Menu
+
+Breakfast
+Meatballs
+Deep dwarven blue cheese
+Soft cheese
+Raspberries
+Sea oats
+6sp
+
+Lunch
+Chicken half
+Sharp cheese
+Black beans
+Raspberries
+8sp
+
+Supper
+Lamb chop
+Broccoli
+Peas
+Oatmeal
+Fruitcake
+1gp
+
+Snack
+Soft cheese
+Blueberries
+Centaur rye
+4sp
+
+  	
+	Generate Tavern
+Tavern Name: Brave Fiend
+Bartender: Female tiefling, 2nd-level NPC aristocrat
+Interesting Clientele: A sorcerer selling spells, a ranger looking for her wolf.
+Rumors Overheard: Gravediggers have discovered a huge, ghoul-filled catacomb under the cemetery. Unexplained snowstorms have brought winter wolves into an otherwise peaceful area. Barge pirates have made a deal with a covey of hags and exact a high toll to use the river.
+Accommodations: Good (a small private room with one bed, some amenities and a covered chamber pot) for 5 sp/day
+Today's Menu: 
+Breakfast: Beef steak, Chicken eggs, Curds, Strawberries, Rice (cost 6sp).
+Lunch: Lamb stew, Goose eggs, Broad beans, Blackberries (cost 8sp).
+Supper: Beef steak, Broccoli, Turnips, Wild rice, Pecan pie (cost 1gp).
+Snack: Duck eggs, Blueberries, Nut bread (cost 4sp).
+ 
+
+
+Welcome to the Brave Fiend
+Today's Menu
+
+Breakfast
+Beef steak
+Chicken eggs
+Curds
+Strawberries
+Rice
+6sp
+
+Lunch
+Lamb stew
+Goose eggs
+Broad beans
+Blackberries
+8sp
+
+Supper
+Beef steak
+Broccoli
+Turnips
+Wild rice
+Pecan pie
+1gp
+
+Snack
+Duck eggs
+Blueberries
+Nut bread
+4sp
+
+  	
+	Generate Tavern
+Tavern Name: Stalwart Tavern
+Bartender: Male half-ogre, 9th-level sorcerer
+Interesting Clientele: Halfling tourists, company of stalwart adventurers.
+Rumors Overheard: Two orc tribes wage a bloody war. Evil nobles have created an adventurers’ guild to monitor and control adventurers. A plague brought by wererats threatens a community.
+Accommodations: Good (a small private room with one bed, some amenities and a covered chamber pot) for 5 sp/day
+Today's Menu: 
+Breakfast: Blood pudding, Chicken eggs, Dragon turtle omelet, Stewed prunes, Flatbread (cost 6sp).
+Lunch: Chicken half, Soft cheese, Leeks, Strawberries (cost 8sp).
+Supper: Lamb chop, Corn, Potato, Mush, Custard (cost 1gp).
+Snack: Soft cheese, Blackberries, Coarse rye bread (cost 4sp).
+ 
+
+
+Welcome to the Stalwart Tavern
+Today's Menu
+
+Breakfast
+Blood pudding
+Chicken eggs
+Dragon turtle omelet
+Stewed prunes
+Flatbread
+6sp
+
+Lunch
+Chicken half
+Soft cheese
+Leeks
+Strawberries
+8sp
+
+Supper
+Lamb chop
+Corn
+Potato
+Mush
+Custard
+1gp
+
+Snack
+Soft cheese
+Blackberries
+Coarse rye bread
+4sp
+
+  	
+	Generate Tavern
+Tavern Name: Motley Ranger
+Bartender: Female half-orc, 1st-level rogue
+Interesting Clientele: A bewildered barbarian, a group of elves sipping wine.
+Rumors Overheard: Local bandits have joined forces with a tribe of bugbears. A recently recovered artifact causes arcane spellcasters’ powers to go awry. The tomb of a powerful wizard, filled with magic items, has sunk into the swamp.
+Accommodations: Good (a small private room with one bed, some amenities and a covered chamber pot) for 5 sp/day
+Today's Menu: 
+Breakfast: Hash, Quail eggs, Soft cheese, Apple, Corn pone (cost 6sp).
+Lunch: Lamb stew, Soft cheese, Udoroot frond, Currants (cost 8sp).
+Supper: Cat cutlet, Green beans, Potato, Oatmeal, Fruitcake (cost 1gp).
+Snack: Dragon turtle omelet, Apple, Oatmeal (cost 4sp).
+ 
+
+
+Welcome to the Motley Ranger
+Today's Menu
+
+Breakfast
+Hash
+Quail eggs
+Soft cheese
+Apple
+Corn pone
+6sp
+
+Lunch
+Lamb stew
+Soft cheese
+Udoroot frond
+Currants
+8sp
+
+Supper
+Cat cutlet
+Green beans
+Potato
+Oatmeal
+Fruitcake
+1gp
+
+Snack
+Dragon turtle omelet
+Apple
+Oatmeal
+4sp
+
+  	
+	Generate Tavern
+Tavern Name: Sorrowful Hostelry
+Bartender: Female half-ogre, 5th-level barbarian
+Interesting Clientele: A fighter looking for trouble, dwarf buying rounds for the house.
+Rumors Overheard: A infestation of stirges drives yuan-ti closer to civilized lands. A paladin’s quest for atonement led her to a troll lair too well-defended for her to tackle alone. A halfling caravan must pass through an ankheg-infested wilderness.
+Accommodations: Good (a small private room with one bed, some amenities and a covered chamber pot) for 5 sp/day
+Today's Menu: 
+Breakfast: Giant toad tongue, Soft cheese, Duck eggs, Apple, Millet (cost 6sp).
+Lunch: Darkmantle, Hippogriff egg, Peas, Pear (cost 8sp).
+Supper: Mixed grill, Lentils, Taro, Millet, Rice pudding (cost 1gp).
+Snack: Goose eggs, Underdark glowfruit, Mush (cost 4sp).
+ 
+
+
+Welcome to the Sorrowful Hostelry
+Today's Menu
+
+Breakfast
+Giant toad tongue
+Soft cheese
+Duck eggs
+Apple
+Millet
+6sp
+
+Lunch
+Darkmantle
+Hippogriff egg
+Peas
+Pear
+8sp
+
+Supper
+Mixed grill
+Lentils
+Taro
+Millet
+Rice pudding
+1gp
+
+Snack
+Goose eggs
+Underdark glowfruit
+Mush
+4sp
+
+  	
+	Generate Tavern
+Tavern Name: Bright Giant
+Bartender: Male dwarf, 10th-level fighter
+Interesting Clientele: Town guard captain having a meal, a sorcerer selling spells.
+Rumors Overheard: A community of gnomes has built a flying ship. A jealous rival threatens to stop a well-attended wedding. The high priest is an illusion.
+Accommodations: Good (a small private room with one bed, some amenities and a covered chamber pot) for 5 sp/day
+Today's Menu: 
+Breakfast: Hash, Soft cheese, Sharp cheese, Blueberries, Oatmeal (cost 6sp).
+Lunch: Lamb stew, Soft cheese, Succotash, Strawberries (cost 8sp).
+Supper: Triceratops steak, Corn, Spinach, Millet, Plain cake (cost 1gp).
+Snack: Sharp cheese, Apple, Oatmeal (cost 4sp).
+ 
+
+
+Welcome to the Bright Giant
+Today's Menu
+
+Breakfast
+Hash
+Soft cheese
+Sharp cheese
+Blueberries
+Oatmeal
+6sp
+
+Lunch
+Lamb stew
+Soft cheese
+Succotash
+Strawberries
+8sp
+
+Supper
+Triceratops steak
+Corn
+Spinach
+Millet
+Plain cake
+1gp
+
+Snack
+Sharp cheese
+Apple
+Oatmeal
+4sp
+
+  	
+	Generate Tavern
+Tavern Name: Happy Moose
+Bartender: Male halfling, 1st-level bard
+Interesting Clientele: Cloaked figure in corner, adventurers planing their next move.
+Rumors Overheard: A bulette is tearing apart viable farmland. A mirror of opposition has created an evil duplicate of a hero. A dragon has flown into a town and demanded tribute.
+Accommodations: Good (a small private room with one bed, some amenities and a covered chamber pot) for 5 sp/day
+Today's Menu: 
+Breakfast: Bacon, Quail eggs, Chicken eggs, Peach, Rice (cost 6sp).
+Lunch: Veal sweetbreads, Chicken eggs, Yams, Strawberries (cost 8sp).
+Supper: Whole duck, Turnips, Broccoli, Oatmeal, Spice bread (cost 1gp).
+Snack: Goose eggs, Breadfruit, Nut bread (cost 4sp).
+ 
+
+
+Welcome to the Happy Moose
+Today's Menu
+
+Breakfast
+Bacon
+Quail eggs
+Chicken eggs
+Peach
+Rice
+6sp
+
+Lunch
+Veal sweetbreads
+Chicken eggs
+Yams
+Strawberries
+8sp
+
+Supper
+Whole duck
+Turnips
+Broccoli
+Oatmeal
+Spice bread
+1gp
+
+Snack
+Goose eggs
+Breadfruit
+Nut bread
+4sp
+
+  	
+	Generate Tavern
+Tavern Name: Pious Tankard
+Bartender: Female halfling, 4th-level bard
+Interesting Clientele: A wizard deep in his cups, a few anonymous drunks.
+Rumors Overheard: Slavers continue to raid a local community. Goblins riding spider eaters have been attacking the outskirts of a town. An antidote to a magic poison must be found before the duke dies.
+Accommodations: Good (a small private room with one bed, some amenities and a covered chamber pot) for 5 sp/day
+Today's Menu: 
+Breakfast: Bulette fin, Chicken eggs, Duck eggs, Dates, Rice (cost 6sp).
+Lunch: Sausage, Curds, Chick peas, Raspberries (cost 8sp).
+Supper: Broiled catfish, Yams, Turnips, Millet, Honey-cake (cost 1gp).
+Snack: Soft cheese, Peach, Corn pone (cost 4sp).
+ 
+
+
+Welcome to the Pious Tankard
+Today's Menu
+
+Breakfast
+Bulette fin
+Chicken eggs
+Duck eggs
+Dates
+Rice
+6sp
+
+Lunch
+Sausage
+Curds
+Chick peas
+Raspberries
+8sp
+
+Supper
+Broiled catfish
+Yams
+Turnips
+Millet
+Honey-cake
+1gp
+
+Snack
+Soft cheese
+Peach
+Corn pone
+4sp
+
+  	
+	Generate Tavern
+Tavern Name: Whisky Warrior
+Bartender: Male elf, 10th-level cleric
+Interesting Clientele: A ranger looking for her wolf, soft-spoken traveling monks.
+Rumors Overheard: A child has wandered into a vast necropolis, and dusk approaches quickly. The funeral for a good fighter was disrupted by enemies he made while alive. The holy symbol of a high priest is missing.
+Accommodations: Good (a small private room with one bed, some amenities and a covered chamber pot) for 5 sp/day
+Today's Menu: 
+Breakfast: Blood pudding, Soft cheese, Gnomes’ yogurt, Blackberries, Coarse rye bread (cost 6sp).
+Lunch: Pork chop, Curds, Peas, Blueberries (cost 8sp).
+Supper: Beef steak, Okra, Turnips, Flatbread, Crème brulée (cost 1gp).
+Snack: Sharp cheese, Stewed prunes, Millet (cost 4sp).
+ 
+
+
+Welcome to the Whisky Warrior
+Today's Menu
+
+Breakfast
+Blood pudding
+Soft cheese
+Gnomes’ yogurt
+Blackberries
+Coarse rye bread
+6sp
+
+Lunch
+Pork chop
+Curds
+Peas
+Blueberries
+8sp
+
+Supper
+Beef steak
+Okra
+Turnips
+Flatbread
+Crème brulée
+1gp
+
+Snack
+Sharp cheese
+Stewed prunes
+Millet
+4sp
+
+  	
+	Generate Tavern
+Tavern Name: Happy Glass
+Bartender: Female half-orc, 1st-level bard
+Interesting Clientele: Cloaked figure in corner, soft-spoken traveling monks.
+Rumors Overheard: Cultists are kidnapping potential sacrifices. Barbarians have torn up a village in a violent rage. Sahuagin are being driven out of the sea to attack coastal -villages.
+Accommodations: Good (a small private room with one bed, some amenities and a covered chamber pot) for 5 sp/day
+Today's Menu: 
+Breakfast: Blood pudding, Curds, Soft cheese, Melon, Millet (cost 6sp).
+Lunch: Sausage, Chicken eggs, Broad beans, Currants (cost 8sp).
+Supper: Beef steak, Succotash, Potato, Rice, Plum pudding (cost 1gp).
+Snack: Sharp cheese, Apple, Coarse rye bread (cost 4sp).
+ 
+
+
+Welcome to the Happy Glass
+Today's Menu
+
+Breakfast
+Blood pudding
+Curds
+Soft cheese
+Melon
+Millet
+6sp
+
+Lunch
+Sausage
+Chicken eggs
+Broad beans
+Currants
+8sp
+
+Supper
+Beef steak
+Succotash
+Potato
+Rice
+Plum pudding
+1gp
+
+Snack
+Sharp cheese
+Apple
+Coarse rye bread
+4sp
+
+  	
+	Generate Tavern
+Tavern Name: Fair Giant
+Bartender: Female human, 3rd-level bard
+Interesting Clientele: A bard performing for drinks, carnies out on the town.
+Rumors Overheard: Miners have accidentally released something awful that once was buried deep. A paladin’s quest for atonement led her to a troll lair too well-defended for her to tackle alone. Adventurers exploring a dungeon have not returned in a week.
+Accommodations: Good (a small private room with one bed, some amenities and a covered chamber pot) for 5 sp/day
+Today's Menu: 
+Breakfast: Hash, Chicken eggs, Curds, Strawberries, Wild rice (cost 6sp).
+Lunch: Rabbit stew, Duck eggs, Turnips, Apple (cost 8sp).
+Supper: Stuffed trout, Onions, Artichoke, Oatmeal, Raisin pie (cost 1gp).
+Snack: Sharp cheese, Breadfruit, Rice (cost 4sp).
+ 
+
+
+Welcome to the Fair Giant
+Today's Menu
+
+Breakfast
+Hash
+Chicken eggs
+Curds
+Strawberries
+Wild rice
+6sp
+
+Lunch
+Rabbit stew
+Duck eggs
+Turnips
+Apple
+8sp
+
+Supper
+Stuffed trout
+Onions
+Artichoke
+Oatmeal
+Raisin pie
+1gp
+
+Snack
+Sharp cheese
+Breadfruit
+Rice
+4sp
+
+  	
+	Generate Tavern
+Tavern Name: Pious Tankard
+Bartender: Female halfling, 7th-level NPC commoner
+Interesting Clientele: Cleric of Pelor preaching in corner, an assassin secretly biding his time.
+Rumors Overheard: Ogres have kidnaped the mayor’s daughter. Local bandits have joined forces with a tribe of bugbears. A nearby kingdom has launched an invasion.
+Accommodations: Good (a small private room with one bed, some amenities and a covered chamber pot) for 5 sp/day
+Today's Menu: 
+Breakfast: Bulette fin, Griffin-milk cheese, Chicken eggs, Melon, Flatbread (cost 6sp).
+Lunch: Chicken half, Soft cheese, Peas, Apple (cost 8sp).
+Supper: Stuffed trout, Green beans, Cabbage, Corn pone, Applesauce (cost 1gp).
+Snack: Duck eggs, Black apple, Millet (cost 4sp).
+ 
+
+
+Welcome to the Pious Tankard
+Today's Menu
+
+Breakfast
+Bulette fin
+Griffin-milk cheese
+Chicken eggs
+Melon
+Flatbread
+6sp
+
+Lunch
+Chicken half
+Soft cheese
+Peas
+Apple
+8sp
+
+Supper
+Stuffed trout
+Green beans
+Cabbage
+Corn pone
+Applesauce
+1gp
+
+Snack
+Duck eggs
+Black apple
+Millet
+4sp
+
+  	
+	Generate Tavern
+Tavern Name: Sign of the Orc
+Bartender: Male gnome, 1st-level sorcerer
+Interesting Clientele: Group of singing halflings, a bard performing for drinks.
+Rumors Overheard: Evil clerics gather in secret to summon a monstrous god to the world. Vampires are preying upon a small town. A fire elemental has escaped from a wizard’s lab.
+Accommodations: Good (a small private room with one bed, some amenities and a covered chamber pot) for 5 sp/day
+Today's Menu: 
+Breakfast: Fried perch, Duck eggs, Sharp cheese, Peach, Oatmeal (cost 6sp).
+Lunch: Lamb stew, Soft cheese, Taro, Blueberries (cost 8sp).
+Supper: Whole duck, Broccoli, Corn, Mush, Walnut cake (cost 1gp).
+Snack: Soft cheese, Peach, Corn pone (cost 4sp).
+ 
+
+
+Welcome to the Sign of the Orc
+Today's Menu
+
+Breakfast
+Fried perch
+Duck eggs
+Sharp cheese
+Peach
+Oatmeal
+6sp
+
+Lunch
+Lamb stew
+Soft cheese
+Taro
+Blueberries
+8sp
+
+Supper
+Whole duck
+Broccoli
+Corn
+Mush
+Walnut cake
+1gp
+
+Snack
+Soft cheese
+Peach
+Corn pone
+4sp
+
+  	
+	Generate Tavern
+Tavern Name: Brave Shield
+Bartender: Male half-elf, 6th-level cleric
+Interesting Clientele: A ranger looking for her wolf, humans gnawing turkey legs.
+Rumors Overheard: An absentminded wizard has let her rod of wonder fall into the wrong hands. An island at the center of the lake is actually the top of a strange, submerged fortress. A sorrowful bard tells a tavern tale of his imprisoned companions.
+Accommodations: Good (a small private room with one bed, some amenities and a covered chamber pot) for 5 sp/day
+Today's Menu: 
+Breakfast: Meatballs, Duck eggs, Soft cheese, Peach, Oatmeal (cost 6sp).
+Lunch: Pork chop, Dragon turtle omelet, Broad beans, Peach (cost 2gp).
+Supper: Mixed grill, Chick peas, Spinach, Wild rice, Raisin pie (cost 1gp).
+Snack: Sharp cheese, Banana, Oatmeal (cost 4sp).
+ 
+
+
+Welcome to the Brave Shield
+Today's Menu
+
+Breakfast
+Meatballs
+Duck eggs
+Soft cheese
+Peach
+Oatmeal
+6sp
+
+Lunch
+Pork chop
+Dragon turtle omelet
+Broad beans
+Peach
+2gp
+
+Supper
+Mixed grill
+Chick peas
+Spinach
+Wild rice
+Raisin pie
+1gp
+
+Snack
+Sharp cheese
+Banana
+Oatmeal
+4sp
+
+  	
+	Generate Tavern
+Tavern Name: Goodly Castle
+Bartender: Male half-ogre, 3rd-level ranger
+Interesting Clientele: A wizard deep in his cups, gang of half-orc street toughs.
+Rumors Overheard: Barge pirates have made a deal with a covey of hags and exact a high toll to use the river. A bulette is tearing apart viable farmland. Thieves steal a great treasure and flee into Mordenkainen’s magnificent mansion.
+Accommodations: Good (a small private room with one bed, some amenities and a covered chamber pot) for 5 sp/day
+Today's Menu: 
+Breakfast: Kippers, Dragon turtle omelet, Sharp cheese, Currants, Flatbread (cost 6sp).
+Lunch: Veal sweetbreads, Duck eggs, Broccoli, Apple (cost 8sp).
+Supper: Beef steak, Taro, Green beans, Coarse rye bread, Walnut cake (cost 1gp).
+Snack: Sharp cheese, Raisins, Millet (cost 4sp).
+ 
+
+
+Welcome to the Goodly Castle
+Today's Menu
+
+Breakfast
+Kippers
+Dragon turtle omelet
+Sharp cheese
+Currants
+Flatbread
+6sp
+
+Lunch
+Veal sweetbreads
+Duck eggs
+Broccoli
+Apple
+8sp
+
+Supper
+Beef steak
+Taro
+Green beans
+Coarse rye bread
+Walnut cake
+1gp
+
+Snack
+Sharp cheese
+Raisins
+Millet
+4sp
+
+  	
+	Generate Tavern
+Tavern Name: Comfortable Shield
+Bartender: Male dwarf, 1st-level cleric
+Interesting Clientele: Company of stalwart adventurers, a press-gang collecting drunks.
+Rumors Overheard: An innocent man, about to be hanged, pleads for someone to help him. Sahuagin are being driven out of the sea to attack coastal -villages. A kingdom known for its wizards prepares for war.
+Accommodations: Good (a small private room with one bed, some amenities and a covered chamber pot) for 5 sp/day
+Today's Menu: 
+Breakfast: Hash, Chicken eggs, Duck eggs, Raspberries, Millet (cost 6sp).
+Lunch: Frog legs, Sharp cheese, Chick peas, Pear (cost 8sp).
+Supper: Beef steak, Leeks, Udoroot frond, Nut bread, Rhubarb pie (cost 1gp).
+Snack: Duck eggs, Blackberries, Rice (cost 4sp).
+ 
+
+
+Welcome to the Comfortable Shield
+Today's Menu
+
+Breakfast
+Hash
+Chicken eggs
+Duck eggs
+Raspberries
+Millet
+6sp
+
+Lunch
+Frog legs
+Sharp cheese
+Chick peas
+Pear
+8sp
+
+Supper
+Beef steak
+Leeks
+Udoroot frond
+Nut bread
+Rhubarb pie
+1gp
+
+Snack
+Duck eggs
+Blackberries
+Rice
+4sp
+
+  	
+	Generate Tavern
+Tavern Name: Brave Blackguard
+Bartender: Male human, 8th-level bard
+Interesting Clientele: Adventurers planing their next move, a fighter looking for trouble.
+Rumors Overheard: All the doors in the king’s castle are suddenly arcane locked and fire trapped. An absentminded wizard has let her rod of wonder fall into the wrong hands. The high priest is an illusion.
+Accommodations: Good (a small private room with one bed, some amenities and a covered chamber pot) for 5 sp/day
+Today's Menu: 
+Breakfast: Fried perch, Soft cheese, Goose eggs, Peach, Mush (cost 6sp).
+Lunch: Cat cutlet, Goose eggs, Potato, Dates (cost 8sp).
+Supper: Wild boar headcheese, Black beans, Collard greens, Corn pone, Berry pie (cost 1gp).
+Snack: Goose eggs, Dates, Flatbread (cost 4sp).
+ 
+
+
+Welcome to the Brave Blackguard
+Today's Menu
+
+Breakfast
+Fried perch
+Soft cheese
+Goose eggs
+Peach
+Mush
+6sp
+
+Lunch
+Cat cutlet
+Goose eggs
+Potato
+Dates
+8sp
+
+Supper
+Wild boar headcheese
+Black beans
+Collard greens
+Corn pone
+Berry pie
+1gp
+
+Snack
+Goose eggs
+Dates
+Flatbread
+4sp
+
+  	
+	Generate Tavern
+Tavern Name: Sad Giant
+Bartender: Female half-ogre, 8th-level barbarian
+Interesting Clientele: A group of dicing rogues, dwarf buying rounds for the house.
+Rumors Overheard: A paladin’s quest for atonement led her to a troll lair too well-defended for her to tackle alone. The funeral for a good fighter was disrupted by enemies he made while alive. Someone is sabotaging wagons and carts to come apart when they travel at high speed.
+Accommodations: Good (a small private room with one bed, some amenities and a covered chamber pot) for 5 sp/day
+Today's Menu: 
+Breakfast: Bacon, Duck eggs, Curds, Blackberries, Oatmeal (cost 6sp).
+Lunch: Pork chop, Sharp cheese, Black beans, Blackberries (cost 8sp).
+Supper: Mixed grill, Taro, Lentils, Flatbread, Rhubarb pie (cost 1gp).
+Snack: Curds, Raisins, Oatmeal (cost 4sp).
+ 
+
+
+Welcome to the Sad Giant
+Today's Menu
+
+Breakfast
+Bacon
+Duck eggs
+Curds
+Blackberries
+Oatmeal
+6sp
+
+Lunch
+Pork chop
+Sharp cheese
+Black beans
+Blackberries
+8sp
+
+Supper
+Mixed grill
+Taro
+Lentils
+Flatbread
+Rhubarb pie
+1gp
+
+Snack
+Curds
+Raisins
+Oatmeal
+4sp
+
+  	
+	Generate Tavern
+Tavern Name: Brave Sword
+Bartender: Male dwarf, 5th-level sorcerer
+Interesting Clientele: Cloaked figure in corner, dwarf buying rounds for the house.
+Rumors Overheard: Adventurers exploring a dungeon have not returned in a week. Goblins riding spider eaters have been attacking the outskirts of a town. The tomb of an old wizard has been discovered.
+Accommodations: Good (a small private room with one bed, some amenities and a covered chamber pot) for 5 sp/day
+Today's Menu: 
+Breakfast: Meatballs, Sharp cheese, Soft cheese, Peach, Nut bread (cost 6sp).
+Lunch: Sausage, Soft cheese, Black beans, Pear (cost 8sp).
+Supper: Lamb chop, Carrots, Okra, Mush, Spice bread (cost 1gp).
+Snack: Sharp cheese, Currants, Mush (cost 4sp).
+ 
+
+
+Welcome to the Brave Sword
+Today's Menu
+
+Breakfast
+Meatballs
+Sharp cheese
+Soft cheese
+Peach
+Nut bread
+6sp
+
+Lunch
+Sausage
+Soft cheese
+Black beans
+Pear
+8sp
+
+Supper
+Lamb chop
+Carrots
+Okra
+Mush
+Spice bread
+1gp
+
+Snack
+Sharp cheese
+Currants
+Mush
+4sp
+
+  	
+	Generate Tavern
+Tavern Name: Angry Cup
+Bartender: Male elf, 3rd-level NPC warrior
+Interesting Clientele: A fighter looking for trouble, carnies out on the town.
+Rumors Overheard: The statue in the town square was found to be a petrified paladin. Racial tensions between humans and elves are rising. A map showing the location of an ancient magic forge is discovered.
+Accommodations: Good (a small private room with one bed, some amenities and a covered chamber pot) for 5 sp/day
+Today's Menu: 
+Breakfast: Hash, Sharp cheese, Soft cheese, Pomegranite, Corn pone (cost 6sp).
+Lunch: Veal sweetbreads, Curds, Broad beans, Pear (cost 8sp).
+Supper: Stuffed trout, Succotash, Black beans, Corn pone, Mince pie (cost 1gp).
+Snack: Chicken eggs, Dates, Mush (cost 4sp).
+ 
+
+
+Welcome to the Angry Cup
+Today's Menu
+
+Breakfast
+Hash
+Sharp cheese
+Soft cheese
+Pomegranite
+Corn pone
+6sp
+
+Lunch
+Veal sweetbreads
+Curds
+Broad beans
+Pear
+8sp
+
+Supper
+Stuffed trout
+Succotash
+Black beans
+Corn pone
+Mince pie
+1gp
+
+Snack
+Chicken eggs
+Dates
+Mush
+4sp
+
+  	
+	Generate Tavern
+Tavern Name: Home of the Axe
+Bartender: Male half-elf, 7th-level barbarian
+Interesting Clientele: Youngsters on a lark, halfling tourists.
+Rumors Overheard: Someone is sabotaging wagons and carts to come apart when they travel at high speed. A huge gemstone supposedly lies within an ancient ruined monastery. A kingdom known for its wizards prepares for war.
+Accommodations: Good (a small private room with one bed, some amenities and a covered chamber pot) for 5 sp/day
+Today's Menu: 
+Breakfast: Bacon, Soft cheese, Griffin-milk cheese, Currants, Marzipan (cost 6sp).
+Lunch: Sausage, Chicken eggs, Green beans, Currants (cost 8sp).
+Supper: Shark filet, Broad beans, Green beans, Corn pone, Plum pudding (cost 1gp).
+Snack: Chicken eggs, Dates, Corn pone (cost 4sp).
+ 
+
+
+Welcome to the Home of the Axe
+Today's Menu
+
+Breakfast
+Bacon
+Soft cheese
+Griffin-milk cheese
+Currants
+Marzipan
+6sp
+
+Lunch
+Sausage
+Chicken eggs
+Green beans
+Currants
+8sp
+
+Supper
+Shark filet
+Broad beans
+Green beans
+Corn pone
+Plum pudding
+1gp
+
+Snack
+Chicken eggs
+Dates
+Corn pone
+4sp
+
+  	
+	Generate Tavern
+Tavern Name: Weary Hero
+Bartender: Male gnome, 7th-level rogue
+Interesting Clientele: Halfling tourists, soft-spoken traveling monks.
+Rumors Overheard: Two orc tribes wage a bloody war. A druid needs help defending her grove against goblins. A mirror of opposition has created an evil duplicate of a hero.
+Accommodations: Good (a small private room with one bed, some amenities and a covered chamber pot) for 5 sp/day
+Today's Menu: 
+Breakfast: Beef steak, Soft cheese, Gnomes’ yogurt, Blackberries, Tahini (cost 6sp).
+Lunch: Rabbit stew, Soft cheese, Broad beans, Strawberries (cost 8sp).
+Supper: Broiled catfish, Lentils, Taro, Mush, Applesauce (cost 1gp).
+Snack: Soft cheese, Blackberries, Nut bread (cost 4sp).
+ 
+
+
+Welcome to the Weary Hero
+Today's Menu
+
+Breakfast
+Beef steak
+Soft cheese
+Gnomes’ yogurt
+Blackberries
+Tahini
+6sp
+
+Lunch
+Rabbit stew
+Soft cheese
+Broad beans
+Strawberries
+8sp
+
+Supper
+Broiled catfish
+Lentils
+Taro
+Mush
+Applesauce
+1gp
+
+Snack
+Soft cheese
+Blackberries
+Nut bread
+4sp
+
+  	
+	Generate Tavern
+Tavern Name: Laughing Elf
+Bartender: Female elf, 4th-level sorcerer
+Interesting Clientele: Cloaked figure in corner, group of singing halflings.
+Rumors Overheard: A kingdom known for its wizards prepares for war. A huge gemstone supposedly lies within an ancient ruined monastery. A mysterious fog has brought ghosts into town.
+Accommodations: Good (a small private room with one bed, some amenities and a covered chamber pot) for 5 sp/day
+Today's Menu: 
+Breakfast: Ham, Curds, Goose eggs, Blueberries, Coarse rye bread (cost 6sp).
+Lunch: Pork chop, Gnomes’ yogurt, Onions, Strawberries (cost 8sp).
+Supper: Lamb chop, Peas, Assassin vine leaf, Millet, Plain cake (cost 1gp).
+Snack: Duck eggs, Pear, Mush (cost 4sp).
+ 
+
+
+Welcome to the Laughing Elf
+Today's Menu
+
+Breakfast
+Ham
+Curds
+Goose eggs
+Blueberries
+Coarse rye bread
+6sp
+
+Lunch
+Pork chop
+Gnomes’ yogurt
+Onions
+Strawberries
+8sp
+
+Supper
+Lamb chop
+Peas
+Assassin vine leaf
+Millet
+Plain cake
+1gp
+
+Snack
+Duck eggs
+Pear
+Mush
+4sp
+
+  	
+	Generate Tavern
+Tavern Name: Silly Inn
+Bartender: Male gnome, 9th-level fighter
+Interesting Clientele: Humans gnawing turkey legs, a ranger looking for her wolf.
+Rumors Overheard: A community of gnomes has built a flying ship. A halfling caravan must pass through an ankheg-infested wilderness. Slavers continue to raid a local community.
+Accommodations: Good (a small private room with one bed, some amenities and a covered chamber pot) for 5 sp/day
+Today's Menu: 
+Breakfast: Ham, Hippogriff egg, Curds, Blueberries, Wild rice (cost 6sp).
+Lunch: Veal sweetbreads, Duck eggs, Chick peas, Strawberries (cost 8sp).
+Supper: Broiled catfish, Potato, Broad beans, Corn pone, Plain cake (cost 1gp).
+Snack: Sharp cheese, Apple, Flatbread (cost 4sp).
+ 
+
+
+Welcome to the Silly Inn
+Today's Menu
+
+Breakfast
+Ham
+Hippogriff egg
+Curds
+Blueberries
+Wild rice
+6sp
+
+Lunch
+Veal sweetbreads
+Duck eggs
+Chick peas
+Strawberries
+8sp
+
+Supper
+Broiled catfish
+Potato
+Broad beans
+Corn pone
+Plain cake
+1gp
+
+Snack
+Sharp cheese
+Apple
+Flatbread
+4sp
+
+  	
+	Generate Tavern
+Tavern Name: Bright Fisher
+Bartender: Male tiefling, 3rd-level NPC warrior
+Interesting Clientele: Party of rowdy dwarves, a sorcerer selling spells.
+Rumors Overheard: A wizard is buried in a trap-filled tomb with her powerful magic items. Buried below the Tree of the World lies the Master Clock of Time. A huge gemstone supposedly lies within an ancient ruined monastery.
+Accommodations: Good (a small private room with one bed, some amenities and a covered chamber pot) for 5 sp/day
+Today's Menu: 
+Breakfast: Hash, Quail eggs, Curds, Strawberries, Flatbread (cost 1gp).
+Lunch: Veal sweetbreads, Duck eggs, Black beans, Currants (cost 8sp).
+Supper: Beef steak, Succotash, Carrots, Corn pone, Mince pie (cost 1gp).
+Snack: Griffin-milk cheese, Dates, Mush (cost 4sp).
+ 
+
+
+Welcome to the Bright Fisher
+Today's Menu
+
+Breakfast
+Hash
+Quail eggs
+Curds
+Strawberries
+Flatbread
+1gp
+
+Lunch
+Veal sweetbreads
+Duck eggs
+Black beans
+Currants
+8sp
+
+Supper
+Beef steak
+Succotash
+Carrots
+Corn pone
+Mince pie
+1gp
+
+Snack
+Griffin-milk cheese
+Dates
+Mush
+4sp
+
+  	
+	Generate Tavern
+Tavern Name: Comfortable Hero
+Bartender: Male tiefling, 4th-level rogue
+Interesting Clientele: Gang of half-orc street toughs, youngsters on a lark.
+Rumors Overheard: Barge pirates have made a deal with a covey of hags and exact a high toll to use the river. Treants in the woods are threatened by a huge fire of mysterious origin. An earthquake has uncovered a previously unknown dungeon.
+Accommodations: Good (a small private room with one bed, some amenities and a covered chamber pot) for 5 sp/day
+Today's Menu: 
+Breakfast: Beef steak, Griffin-milk cheese, Goose eggs, Dates, Centaur rye (cost 6sp).
+Lunch: Chicken half, Curds, Peas, Blueberries (cost 8sp).
+Supper: Beef steak, Cabbage, Onions, Coarse rye bread, Berry pie (cost 1gp).
+Snack: Sharp cheese, Apple, Mush (cost 4sp).
+ 
+
+
+Welcome to the Comfortable Hero
+Today's Menu
+
+Breakfast
+Beef steak
+Griffin-milk cheese
+Goose eggs
+Dates
+Centaur rye
+6sp
+
+Lunch
+Chicken half
+Curds
+Peas
+Blueberries
+8sp
+
+Supper
+Beef steak
+Cabbage
+Onions
+Coarse rye bread
+Berry pie
+1gp
+
+Snack
+Sharp cheese
+Apple
+Mush
+4sp
+
+  	
+	Generate Tavern
+Tavern Name: Gray Dwarf
+Bartender: Female human, 6th-level cleric
+Interesting Clientele: A bewildered barbarian, dwarf buying rounds for the house.
+Rumors Overheard: Thieves have stolen the crown jewels. An enchanter is compelling others to steal for him. Gravediggers have discovered a huge, ghoul-filled catacomb under the cemetery.
+Accommodations: Good (a small private room with one bed, some amenities and a covered chamber pot) for 5 sp/day
+Today's Menu: 
+Breakfast: Ham, Chicken eggs, Goose eggs, Blackberries, Coarse rye bread (cost 6sp).
+Lunch: Chicken half, Duck eggs, Assassin vine leaf, Apple (cost 8sp).
+Supper: Broiled catfish, Potato, Broccoli, Mush, Plain cake (cost 1gp).
+Snack: Griffin-milk cheese, Raisins, Nut bread (cost 4sp).
+ 
+
+
+Welcome to the Gray Dwarf
+Today's Menu
+
+Breakfast
+Ham
+Chicken eggs
+Goose eggs
+Blackberries
+Coarse rye bread
+6sp
+
+Lunch
+Chicken half
+Duck eggs
+Assassin vine leaf
+Apple
+8sp
+
+Supper
+Broiled catfish
+Potato
+Broccoli
+Mush
+Plain cake
+1gp
+
+Snack
+Griffin-milk cheese
+Raisins
+Nut bread
+4sp
+
+  	
+	Generate Tavern
+Tavern Name: Blissful Gargoyle
+Bartender: Male human, 9th-level NPC commoner
+Interesting Clientele: Company of stalwart adventurers, town guard captain having a meal.
+Rumors Overheard: The tomb of an old wizard has been discovered. A gate to the Lower Planes threatens to bring more demons to the world. A wronged half-elf needs a champion to fight for her in a gladiatorial trial.
+Accommodations: Good (a small private room with one bed, some amenities and a covered chamber pot) for 5 sp/day
+Today's Menu: 
+Breakfast: Blood pudding, Soft cheese, Chicken eggs, Blackberries, Corn pone (cost 6sp).
+Lunch: Lamb stew, Goose eggs, Turnips, Blackberries (cost 8sp).
+Supper: Beef steak, Yams, Potato, Mush, Raisin pie (cost 1gp).
+Snack: Curds, Pear, Flatbread (cost 4sp).
+ 
+
+
+Welcome to the Blissful Gargoyle
+Today's Menu
+
+Breakfast
+Blood pudding
+Soft cheese
+Chicken eggs
+Blackberries
+Corn pone
+6sp
+
+Lunch
+Lamb stew
+Goose eggs
+Turnips
+Blackberries
+8sp
+
+Supper
+Beef steak
+Yams
+Potato
+Mush
+Raisin pie
+1gp
+
+Snack
+Curds
+Pear
+Flatbread
+4sp
+
+  	
+	Generate Tavern
+Tavern Name: Pious Unicorn
+Bartender: Male half-ogre, 5th-level sorcerer
+Interesting Clientele: A wizard deep in his cups, company of stalwart adventurers.
+Rumors Overheard: An island at the center of the lake is actually the top of a strange, submerged fortress. The door into an abandoned house in the middle of town is in fact a magic portal. Barbarians have torn up a village in a violent rage.
+Accommodations: Good (a small private room with one bed, some amenities and a covered chamber pot) for 5 sp/day
+Today's Menu: 
+Breakfast: Ham, Duck eggs, Chicken eggs, Stewed prunes, Nut bread (cost 6sp).
+Lunch: Chicken half, Sharp cheese, Cabbage, Pear (cost 8sp).
+Supper: Dog stew, Corn, Black beans, Mush, Rice pudding (cost 1gp).
+Snack: Gnomes’ yogurt, Peach, Rice (cost 4sp).
+ 
+
+
+Welcome to the Pious Unicorn
+Today's Menu
+
+Breakfast
+Ham
+Duck eggs
+Chicken eggs
+Stewed prunes
+Nut bread
+6sp
+
+Lunch
+Chicken half
+Sharp cheese
+Cabbage
+Pear
+8sp
+
+Supper
+Dog stew
+Corn
+Black beans
+Mush
+Rice pudding
+1gp
+
+Snack
+Gnomes’ yogurt
+Peach
+Rice
+4sp
+
+  	
+	Generate Tavern
+Tavern Name: Fiery Maiden
+Bartender: Female half-orc, 5th-level NPC aristocrat
+Interesting Clientele: A bewildered barbarian, company of stalwart adventurers.
+Rumors Overheard: Mysterious groaning sounds come from a haunted wood at night. Treants in the woods are threatened by a huge fire of mysterious origin. A clutch of wyverns is preying upon sheep as well as shepherds.
+Accommodations: Good (a small private room with one bed, some amenities and a covered chamber pot) for 5 sp/day
+Today's Menu: 
+Breakfast: Smoked sausage, Sharp cheese, Soft cheese, Pear, Coarse rye bread (cost 6sp).
+Lunch: Giant toad tongue, Chicken eggs, Spinach, Dates (cost 2gp).
+Supper: Mixed grill, Onions, Lentils, Wild rice, Rice pudding (cost 1gp).
+Snack: Goose eggs, Melon, Nut bread (cost 4sp).
+ 
+
+
+Welcome to the Fiery Maiden
+Today's Menu
+
+Breakfast
+Smoked sausage
+Sharp cheese
+Soft cheese
+Pear
+Coarse rye bread
+6sp
+
+Lunch
+Giant toad tongue
+Chicken eggs
+Spinach
+Dates
+2gp
+
+Supper
+Mixed grill
+Onions
+Lentils
+Wild rice
+Rice pudding
+1gp
+
+Snack
+Goose eggs
+Melon
+Nut bread
+4sp
+
+  	
+	Generate Tavern
+Tavern Name: Courageous Moose
+Bartender: Male halfling, 3rd-level rogue
+Interesting Clientele: A rogue secretly emptying purses, group of singing halflings.
+Rumors Overheard: The keys to disarming all the magic traps in a wizard’s tower have gone missing. Gargoyles are killing giant eagles in the mountains. Local bandits have joined forces with a tribe of bugbears.
+Accommodations: Good (a small private room with one bed, some amenities and a covered chamber pot) for 5 sp/day
+Today's Menu: 
+Breakfast: Hash, Sharp cheese, Chicken eggs, Coconut, Rice (cost 6sp).
+Lunch: Shark filet, Gnomes’ yogurt, Spinach, Peach (cost 8sp).
+Supper: Lamb chop, Broad beans, Potato, Rice, Mince pie (cost 1gp).
+Snack: Chicken eggs, Raisins, Tahini (cost 4sp).
+ 
+
+
+Welcome to the Courageous Moose
+Today's Menu
+
+Breakfast
+Hash
+Sharp cheese
+Chicken eggs
+Coconut
+Rice
+6sp
+
+Lunch
+Shark filet
+Gnomes’ yogurt
+Spinach
+Peach
+8sp
+
+Supper
+Lamb chop
+Broad beans
+Potato
+Rice
+Mince pie
+1gp
+
+Snack
+Chicken eggs
+Raisins
+Tahini
+4sp
+
+  	
+	Generate Tavern
+Tavern Name: Fiery Plate
+Bartender: Male half-ogre, 4th-level NPC commoner
+Interesting Clientele: Company of drunken adventurers, group of singing halflings.
+Rumors Overheard: A kingdom known for its wizards prepares for war. A blackguard is organizing monsters in an area. Two parts of a magic item are in the hands of bitter enemies; the third piece is lost.
+Accommodations: Good (a small private room with one bed, some amenities and a covered chamber pot) for 5 sp/day
+Today's Menu: 
+Breakfast: Bulette fin, Deep dwarven blue cheese, Sharp cheese, Pear, Mush (cost 6sp).
+Lunch: Sausage, Griffin-milk cheese, Onions, Raspberries (cost 8sp).
+Supper: Stuffed trout, Onions, Spinach, Corn pone, Spice bread (cost 1gp).
+Snack: Chicken eggs, Coconut, Flatbread (cost 4sp).
+ 
+
+
+Welcome to the Fiery Plate
+Today's Menu
+
+Breakfast
+Bulette fin
+Deep dwarven blue cheese
+Sharp cheese
+Pear
+Mush
+6sp
+
+Lunch
+Sausage
+Griffin-milk cheese
+Onions
+Raspberries
+8sp
+
+Supper
+Stuffed trout
+Onions
+Spinach
+Corn pone
+Spice bread
+1gp
+
+Snack
+Chicken eggs
+Coconut
+Flatbread
+4sp
+
+  	
+	Generate Tavern
+Tavern Name: Sign of the Fiend
+Bartender: Male half-elf, 1st-level ranger
+Interesting Clientele: Company of stalwart adventurers, soft-spoken traveling monks.
+Rumors Overheard: Local bandits have joined forces with a tribe of bugbears. A certain type of frogs, found only in an isolated valley, fall like rain on a major city. Mysterious merchants sell faulty magic items in town and then attempt to slink away.
+Accommodations: Good (a small private room with one bed, some amenities and a covered chamber pot) for 5 sp/day
+Today's Menu: 
+Breakfast: Beef steak, Sharp cheese, Duck eggs, Currants, Coarse rye bread (cost 6sp).
+Lunch: Rabbit stew, Duck eggs, Cabbage, Blueberries (cost 8sp).
+Supper: Broiled catfish, Yams, Spinach, Corn pone, Raisin pie (cost 1gp).
+Snack: Soft cheese, Peach, Nut bread (cost 4sp).
+ 
+
+
+Welcome to the Sign of the Fiend
+Today's Menu
+
+Breakfast
+Beef steak
+Sharp cheese
+Duck eggs
+Currants
+Coarse rye bread
+6sp
+
+Lunch
+Rabbit stew
+Duck eggs
+Cabbage
+Blueberries
+8sp
+
+Supper
+Broiled catfish
+Yams
+Spinach
+Corn pone
+Raisin pie
+1gp
+
+Snack
+Soft cheese
+Peach
+Nut bread
+4sp
+
+  	
+	Generate Tavern
+Tavern Name: Blissful Plate
+Bartender: Male half-ogre, 5th-level fighter
+Interesting Clientele: A rogue secretly emptying purses, a snobby aristocrat.
+Rumors Overheard: An evil wizard has developed a new type of golem. Evil mercenaries are constructing a fortress not far from the community. An earthquake has uncovered a previously unknown dungeon.
+Accommodations: Good (a small private room with one bed, some amenities and a covered chamber pot) for 5 sp/day
+Today's Menu: 
+Breakfast: Beef steak, Griffin-milk cheese, Soft cheese, Dates, Mush (cost 6sp).
+Lunch: Rabbit stew, Sharp cheese, Turnips, Raspberries (cost 8sp).
+Supper: Broiled catfish, Onions, Leeks, Flatbread, Fruitcake (cost 1gp).
+Snack: Curds, Blueberries, Tahini (cost 4sp).
+ 
+
+
+Welcome to the Blissful Plate
+Today's Menu
+
+Breakfast
+Beef steak
+Griffin-milk cheese
+Soft cheese
+Dates
+Mush
+6sp
+
+Lunch
+Rabbit stew
+Sharp cheese
+Turnips
+Raspberries
+8sp
+
+Supper
+Broiled catfish
+Onions
+Leeks
+Flatbread
+Fruitcake
+1gp
+
+Snack
+Curds
+Blueberries
+Tahini
+4sp
+
+  	
+	Generate Tavern
+Tavern Name: Weary Jug
+Bartender: Female halfling, 10th-level barbarian
+Interesting Clientele: Company of stalwart adventurers, a rogue secretly emptying purses.
+Rumors Overheard: Mysterious groaning sounds come from a haunted wood at night. An ancient curse is turning innocent people into evil murderers. A community of gnomes has built a flying ship.
+Accommodations: Good (a small private room with one bed, some amenities and a covered chamber pot) for 5 sp/day
+Today's Menu: 
+Breakfast: Smoked sausage, Gnomes’ yogurt, Goose eggs, Blueberries, Oatmeal (cost 6sp).
+Lunch: Rabbit stew, Sharp cheese, Succotash, Blackberries (cost 8sp).
+Supper: Mixed grill, Black beans, Leeks, Flatbread, Plum pudding (cost 1gp).
+Snack: Soft cheese, Peach, Rice (cost 4sp).
+ 
+
+
+Welcome to the Weary Jug
+Today's Menu
+
+Breakfast
+Smoked sausage
+Gnomes’ yogurt
+Goose eggs
+Blueberries
+Oatmeal
+6sp
+
+Lunch
+Rabbit stew
+Sharp cheese
+Succotash
+Blackberries
+8sp
+
+Supper
+Mixed grill
+Black beans
+Leeks
+Flatbread
+Plum pudding
+1gp
+
+Snack
+Soft cheese
+Peach
+Rice
+4sp
+
+  	
+	Generate Tavern
+Tavern Name: Happy Inn
+Bartender: Female gnome, 9th-level cleric
+Interesting Clientele: A group of elves sipping wine, dwarf buying rounds for the house.
+Rumors Overheard: An emissary going into a hostile kingdom needs an escort. An antidote to a magic poison must be found before the duke dies. The holy symbol of a high priest is missing.
+Accommodations: Good (a small private room with one bed, some amenities and a covered chamber pot) for 5 sp/day
+Today's Menu: 
+Breakfast: Shark filet, Sharp cheese, Soft cheese, Blackberries, Millet (cost 6sp).
+Lunch: Rabbit stew, Goose eggs, Carrots, Currants (cost 8sp).
+Supper: Monkey brain, Broccoli, Chick peas, Flatbread, Raisin pie (cost 1gp).
+Snack: Chicken eggs, Raisins, Pine nuts (cost 4sp).
+ 
+
+
+Welcome to the Happy Inn
+Today's Menu
+
+Breakfast
+Shark filet
+Sharp cheese
+Soft cheese
+Blackberries
+Millet
+6sp
+
+Lunch
+Rabbit stew
+Goose eggs
+Carrots
+Currants
+8sp
+
+Supper
+Monkey brain
+Broccoli
+Chick peas
+Flatbread
+Raisin pie
+1gp
+
+Snack
+Chicken eggs
+Raisins
+Pine nuts
+4sp
+
+  	
+	Generate Tavern
+Tavern Name: Laughing Hero
+Bartender: Male half-ogre, 1st-level ranger
+Interesting Clientele: Guardsmen on a stake-out, a group of dicing rogues.
+Rumors Overheard: Ogres have kidnaped the mayor’s daughter. Gargoyles are killing giant eagles in the mountains. Sahuagin are being driven out of the sea to attack coastal -villages.
+Accommodations: Good (a small private room with one bed, some amenities and a covered chamber pot) for 5 sp/day
+Today's Menu: 
+Breakfast: Monkey brain, Curds, Goose eggs, Raisins, Millet (cost 6sp).
+Lunch: Veal sweetbreads, Sharp cheese, Broccoli, Raspberries (cost 8sp).
+Supper: Broiled catfish, Succotash, Black beans, Nut bread, Rice pudding (cost 1gp).
+Snack: Quail eggs, Stewed prunes, Mush (cost 4sp).
+ 
+
+
+Welcome to the Laughing Hero
+Today's Menu
+
+Breakfast
+Monkey brain
+Curds
+Goose eggs
+Raisins
+Millet
+6sp
+
+Lunch
+Veal sweetbreads
+Sharp cheese
+Broccoli
+Raspberries
+8sp
+
+Supper
+Broiled catfish
+Succotash
+Black beans
+Nut bread
+Rice pudding
+1gp
+
+Snack
+Quail eggs
+Stewed prunes
+Mush
+4sp
+
+  	
+	Generate Tavern
+Tavern Name: Sign of the Castle
+Bartender: Male elf, 3rd-level bard
+Interesting Clientele: An assassin secretly biding his time, a bewildered barbarian.
+Rumors Overheard: An ancient sword must be recovered to defeat a ravaging -monster. Thieves steal a great treasure and flee into Mordenkainen’s magnificent mansion. A shapechanged mind flayer is gathering mentally controlled servitors.
+Accommodations: Good (a small private room with one bed, some amenities and a covered chamber pot) for 5 sp/day
+Today's Menu: 
+Breakfast: Monkey brain, Duck eggs, Quail eggs, Stewed prunes, Marzipan (cost 6sp).
+Lunch: Lamb stew, Soft cheese, Black beans, Blackberries (cost 8sp).
+Supper: Beef steak, Leeks, Yams, Coarse rye bread, Fruitcake (cost 1gp).
+Snack: Duck eggs, Melon, Oatmeal (cost 4sp).
+ 
+
+
+Welcome to the Sign of the Castle
+Today's Menu
+
+Breakfast
+Monkey brain
+Duck eggs
+Quail eggs
+Stewed prunes
+Marzipan
+6sp
+
+Lunch
+Lamb stew
+Soft cheese
+Black beans
+Blackberries
+8sp
+
+Supper
+Beef steak
+Leeks
+Yams
+Coarse rye bread
+Fruitcake
+1gp
+
+Snack
+Duck eggs
+Melon
+Oatmeal
+4sp
+
+  	
+	Generate Tavern
+Tavern Name: Fair Dragon
+Bartender: Female tiefling, 4th-level ranger
+Interesting Clientele: A few anonymous drunks, a fighter looking for trouble.
+Rumors Overheard: Racial tensions between humans and elves are rising. Clerics who have resurrected a long-dead hero discovered she’s not what they thought. Two well-known heroes will soon fight a duel.
+Accommodations: Good (a small private room with one bed, some amenities and a covered chamber pot) for 5 sp/day
+Today's Menu: 
+Breakfast: Beef steak, Goose eggs, Curds, Assassin vine berries, Millet (cost 6sp).
+Lunch: Leg of mutton, Sharp cheese, Leeks, Dates (cost 8sp).
+Supper: Beef steak, Leeks, Broccoli, Flatbread, Toffee (cost 1gp).
+Snack: Soft cheese, Peach, Corn pone (cost 4sp).
+ 
+
+
+Welcome to the Fair Dragon
+Today's Menu
+
+Breakfast
+Beef steak
+Goose eggs
+Curds
+Assassin vine berries
+Millet
+6sp
+
+Lunch
+Leg of mutton
+Sharp cheese
+Leeks
+Dates
+8sp
+
+Supper
+Beef steak
+Leeks
+Broccoli
+Flatbread
+Toffee
+1gp
+
+Snack
+Soft cheese
+Peach
+Corn pone
+4sp
+
+  	
+	Generate Tavern
+Tavern Name: Blissful Dwarf
+Bartender: Male dwarf, 9th-level NPC aristocrat
+Interesting Clientele: A press-gang collecting drunks, a fighter looking for trouble.
+Rumors Overheard: Mysterious groaning sounds come from a haunted wood at night. A certain type of frogs, found only in an isolated valley, fall like rain on a major city. Various monsters have long preyed upon people from within the sewers of a major city.
+Accommodations: Good (a small private room with one bed, some amenities and a covered chamber pot) for 5 sp/day
+Today's Menu: 
+Breakfast: Kippers, Duck eggs, Goose eggs, Dates, Mush (cost 6sp).
+Lunch: Leg of mutton, Soft cheese, Carrots, Raspberries (cost 8sp).
+Supper: Stuffed trout, Succotash, Broad beans, Nut bread, Pecan pie (cost 1gp).
+Snack: Duck eggs, Melon, Oatmeal (cost 4sp).
+ 
+
+
+Welcome to the Blissful Dwarf
+Today's Menu
+
+Breakfast
+Kippers
+Duck eggs
+Goose eggs
+Dates
+Mush
+6sp
+
+Lunch
+Leg of mutton
+Soft cheese
+Carrots
+Raspberries
+8sp
+
+Supper
+Stuffed trout
+Succotash
+Broad beans
+Nut bread
+Pecan pie
+1gp
+
+Snack
+Duck eggs
+Melon
+Oatmeal
+4sp
+
+  	
+	Generate Tavern
+Tavern Name: Whisky Shield
+Bartender: Female half-orc, 4th-level NPC aristocrat
+Interesting Clientele: Gang of half-orc street toughs, a press-gang collecting drunks.
+Rumors Overheard: The statue in the town square was found to be a petrified paladin. Barbarians have torn up a village in a violent rage. The door into an abandoned house in the middle of town is in fact a magic portal.
+Accommodations: Good (a small private room with one bed, some amenities and a covered chamber pot) for 5 sp/day
+Today's Menu: 
+Breakfast: Smoked sausage, Chicken eggs, Duck eggs, Breadfruit, Corn pone (cost 6sp).
+Lunch: Pork chop, Quail eggs, Potato, Pear (cost 8sp).
+Supper: Lamb chop, Corn, Broad beans, Mush, Fruitcake (cost 1gp).
+Snack: Duck eggs, Melon, Flatbread (cost 4sp).
+ 
+
+
+Welcome to the Whisky Shield
+Today's Menu
+
+Breakfast
+Smoked sausage
+Chicken eggs
+Duck eggs
+Breadfruit
+Corn pone
+6sp
+
+Lunch
+Pork chop
+Quail eggs
+Potato
+Pear
+8sp
+
+Supper
+Lamb chop
+Corn
+Broad beans
+Mush
+Fruitcake
+1gp
+
+Snack
+Duck eggs
+Melon
+Flatbread
+4sp
+
+  	
+	Generate Tavern
+Tavern Name: Lovely Gargoyle
+Bartender: Male human, 8th-level NPC commoner
+Interesting Clientele: A rogue secretly emptying purses, guardsmen on a stake-out.
+Rumors Overheard: A infestation of stirges drives yuan-ti closer to civilized lands. Evil clerics gather in secret to summon a monstrous god to the world. Gravediggers have discovered a huge, ghoul-filled catacomb under the cemetery.
+Accommodations: Good (a small private room with one bed, some amenities and a covered chamber pot) for 5 sp/day
+Today's Menu: 
+Breakfast: Meatballs, Griffin-milk cheese, Goose eggs, Apple, Rice (cost 6sp).
+Lunch: Shark filet, Sharp cheese, Succotash, Dates (cost 8sp).
+Supper: Pork liver, Chick peas, Lentils, Coarse rye bread, Apple pie (cost 1gp).
+Snack: Curds, Sunflower loaf, Sunflower loaf (cost 8sp).
+ 
+
+
+Welcome to the Lovely Gargoyle
+Today's Menu
+
+Breakfast
+Meatballs
+Griffin-milk cheese
+Goose eggs
+Apple
+Rice
+6sp
+
+Lunch
+Shark filet
+Sharp cheese
+Succotash
+Dates
+8sp
+
+Supper
+Pork liver
+Chick peas
+Lentils
+Coarse rye bread
+Apple pie
+1gp
+
+Snack
+Curds
+Sunflower loaf
+Sunflower loaf
+8sp
+
+  	
+	Generate Tavern
+Tavern Name: Whisky Bear
+Bartender: Male half-orc, 10th-level sorcerer
+Interesting Clientele: A couple on a date, adventurers planing their next move.
+Rumors Overheard: A bulette is tearing apart viable farmland. Sahuagin are being driven out of the sea to attack coastal -villages. Undead shadows vex a large library, especially an old storeroom long left undisturbed.
+Accommodations: Good (a small private room with one bed, some amenities and a covered chamber pot) for 5 sp/day
+Today's Menu: 
+Breakfast: Ham, Sharp cheese, Curds, Apple, Millet (cost 6sp).
+Lunch: Chicken half, Duck eggs, Lentils, Raspberries (cost 8sp).
+Supper: Lamb chop, Carrots, Lentils, Oatmeal, Pecan pie (cost 1gp).
+Snack: Chicken eggs, Apple, Millet (cost 4sp).
+ 
+
+
+Welcome to the Whisky Bear
+Today's Menu
+
+Breakfast
+Ham
+Sharp cheese
+Curds
+Apple
+Millet
+6sp
+
+Lunch
+Chicken half
+Duck eggs
+Lentils
+Raspberries
+8sp
+
+Supper
+Lamb chop
+Carrots
+Lentils
+Oatmeal
+Pecan pie
+1gp
+
+Snack
+Chicken eggs
+Apple
+Millet
+4sp
+
+  	
+	Generate Tavern
+Tavern Name: Bright Brewery
+Bartender: Female dwarf, 8th-level fighter
+Interesting Clientele: Party of rowdy dwarves, an assassin secretly biding his time.
+Rumors Overheard: Barbarians have torn up a village in a violent rage. An evil wizard has developed a new type of golem. A mysterious fog has brought ghosts into town.
+Accommodations: Good (a small private room with one bed, some amenities and a covered chamber pot) for 5 sp/day
+Today's Menu: 
+Breakfast: Beef steak, Goose eggs, Curds, Peach, Sunflower loaf (cost 6sp).
+Lunch: Rabbit stew, Chicken eggs, Leeks, Blackberries (cost 8sp).
+Supper: Whole duck, Green beans, Turnips, Coarse rye bread, Sherbet (cost 1gp).
+Snack: Soft cheese, Apple, Coarse rye bread (cost 4sp).
+ 
+
+
+Welcome to the Bright Brewery
+Today's Menu
+
+Breakfast
+Beef steak
+Goose eggs
+Curds
+Peach
+Sunflower loaf
+6sp
+
+Lunch
+Rabbit stew
+Chicken eggs
+Leeks
+Blackberries
+8sp
+
+Supper
+Whole duck
+Green beans
+Turnips
+Coarse rye bread
+Sherbet
+1gp
+
+Snack
+Soft cheese
+Apple
+Coarse rye bread
+4sp
+
+  	
+	Generate Tavern
+Tavern Name: Comfortable Dwarf
+Bartender: Female halfling, 10th-level bard
+Interesting Clientele: Guardsmen on a stake-out, company of stalwart adventurers.
+Rumors Overheard: An ancient curse is turning innocent people into evil murderers. An evil tyrant has outlawed unsanctioned magic use. Goblins riding spider eaters have been attacking the outskirts of a town.
+Accommodations: Good (a small private room with one bed, some amenities and a covered chamber pot) for 5 sp/day
+Today's Menu: 
+Breakfast: Meatballs, Soft cheese, Duck eggs, Dates, Mush (cost 6sp).
+Lunch: Shark filet, Deep dwarven blue cheese, Spinach, Apple (cost 2gp).
+Supper: Eagle breast, Yams, Succotash, Flatbread, Rhubarb pie (cost 1gp).
+Snack: Goose eggs, Peach, Corn pone (cost 4sp).
+ 
+
+
+Welcome to the Comfortable Dwarf
+Today's Menu
+
+Breakfast
+Meatballs
+Soft cheese
+Duck eggs
+Dates
+Mush
+6sp
+
+Lunch
+Shark filet
+Deep dwarven blue cheese
+Spinach
+Apple
+2gp
+
+Supper
+Eagle breast
+Yams
+Succotash
+Flatbread
+Rhubarb pie
+1gp
+
+Snack
+Goose eggs
+Peach
+Corn pone
+4sp
+
+  	
+	Generate Tavern
+Tavern Name: Whispering Bow
+Bartender: Male gnome, 4th-level sorcerer
+Interesting Clientele: Grim paladins on crusade, soft-spoken traveling monks.
+Rumors Overheard: Two orc tribes wage a bloody war. A jealous rival threatens to stop a well-attended wedding. A wizard’s guild challenges the ruling council.
+Accommodations: Good (a small private room with one bed, some amenities and a covered chamber pot) for 5 sp/day
+Today's Menu: 
+Breakfast: Wild boar headcheese, Goose eggs, Soft cheese, Pear, Flatbread (cost 1gp).
+Lunch: Leg of mutton, Goose eggs, Succotash, Currants (cost 8sp).
+Supper: Beef steak, Shrieker steak, Turnips, Corn pone, Plain cake (cost 1gp).
+Snack: Duck eggs, Pear, Millet (cost 4sp).
+ 
+
+
+Welcome to the Whispering Bow
+Today's Menu
+
+Breakfast
+Wild boar headcheese
+Goose eggs
+Soft cheese
+Pear
+Flatbread
+1gp
+
+Lunch
+Leg of mutton
+Goose eggs
+Succotash
+Currants
+8sp
+
+Supper
+Beef steak
+Shrieker steak
+Turnips
+Corn pone
+Plain cake
+1gp
+
+Snack
+Duck eggs
+Pear
+Millet
+4sp
+
+  	
+	Generate Tavern
+Tavern Name: Sorrowful Axe
+Bartender: Male halfling, 4th-level fighter
+Interesting Clientele: A press-gang collecting drunks, a wizard deep in his cups.
+Rumors Overheard: A wronged half-elf needs a champion to fight for her in a gladiatorial trial. All the dwarves in an underground city have disappeared. A druid needs help defending her grove against goblins.
+Accommodations: Good (a small private room with one bed, some amenities and a covered chamber pot) for 5 sp/day
+Today's Menu: 
+Breakfast: Blood pudding, Goose eggs, Duck eggs, Peach, Nut bread (cost 6sp).
+Lunch: Lamb stew, Chicken eggs, Lentils, Strawberries (cost 8sp).
+Supper: Lamb chop, Turnips, Black beans, Oatmeal, Applesauce (cost 1gp).
+Snack: Duck eggs, Stewed prunes, Mush (cost 4sp).
+ 
+
+
+Welcome to the Sorrowful Axe
+Today's Menu
+
+Breakfast
+Blood pudding
+Goose eggs
+Duck eggs
+Peach
+Nut bread
+6sp
+
+Lunch
+Lamb stew
+Chicken eggs
+Lentils
+Strawberries
+8sp
+
+Supper
+Lamb chop
+Turnips
+Black beans
+Oatmeal
+Applesauce
+1gp
+
+Snack
+Duck eggs
+Stewed prunes
+Mush
+4sp
+
+  	
+	Generate Tavern
+Tavern Name: Weary Warrior
+Bartender: Male dwarf, 1st-level sorcerer
+Interesting Clientele: A wizard deep in his cups, company of stalwart adventurers.
+Rumors Overheard: An evil tyrant has outlawed unsanctioned magic use. Goblins riding spider eaters have been attacking the outskirts of a town. Colossal vermin are straying out of the desert to attack settlements.
+Accommodations: Good (a small private room with one bed, some amenities and a covered chamber pot) for 5 sp/day
+Today's Menu: 
+Breakfast: Hash, Chicken eggs, Sharp cheese, Dates, Millet (cost 6sp).
+Lunch: Sausage, Soft cheese, Chick peas, Currants (cost 8sp).
+Supper: Broiled catfish, Peas, Leeks, Mush, Fruitcake (cost 1gp).
+Snack: Soft cheese, Peach, Rice (cost 4sp).
+ 
+
+
+Welcome to the Weary Warrior
+Today's Menu
+
+Breakfast
+Hash
+Chicken eggs
+Sharp cheese
+Dates
+Millet
+6sp
+
+Lunch
+Sausage
+Soft cheese
+Chick peas
+Currants
+8sp
+
+Supper
+Broiled catfish
+Peas
+Leeks
+Mush
+Fruitcake
+1gp
+
+Snack
+Soft cheese
+Peach
+Rice
+4sp
+
+  	
+	Generate Tavern
+Tavern Name: Stately Moose
+Bartender: Male half-ogre, 5th-level NPC commoner
+Interesting Clientele: A wizard deep in his cups, a rogue secretly emptying purses.
+Rumors Overheard: Someone in town is a werewolf. A huge gemstone supposedly lies within an ancient ruined monastery. Bugbears are demanding a toll on a well-traveled bridge.
+Accommodations: Good (a small private room with one bed, some amenities and a covered chamber pot) for 5 sp/day
+Today's Menu: 
+Breakfast: Fried perch, Goose eggs, Sharp cheese, Strawberries, Nut bread (cost 6sp).
+Lunch: Pork chop, Griffin-milk cheese, Yams, Blueberries (cost 2gp).
+Supper: Broiled catfish, Seaweed, Potato, Nut bread, Applesauce (cost 1gp).
+Snack: Goose eggs, Blackberries, Tahini (cost 4sp).
+ 
+
+
+Welcome to the Stately Moose
+Today's Menu
+
+Breakfast
+Fried perch
+Goose eggs
+Sharp cheese
+Strawberries
+Nut bread
+6sp
+
+Lunch
+Pork chop
+Griffin-milk cheese
+Yams
+Blueberries
+2gp
+
+Supper
+Broiled catfish
+Seaweed
+Potato
+Nut bread
+Applesauce
+1gp
+
+Snack
+Goose eggs
+Blackberries
+Tahini
+4sp
+
+  	
+	Generate Tavern
+Tavern Name: Sorrowful Hostelry
+Bartender: Female half-elf, 7th-level bard
+Interesting Clientele: Carnies out on the town, halfling tourists.
+Rumors Overheard: A plague brought by wererats threatens a community. Buried below the Tree of the World lies the Master Clock of Time. A paladin’s quest for atonement led her to a troll lair too well-defended for her to tackle alone.
+Accommodations: Good (a small private room with one bed, some amenities and a covered chamber pot) for 5 sp/day
+Today's Menu: 
+Breakfast: Meatballs, Soft cheese, Quail eggs, Currants, Flatbread (cost 1gp).
+Lunch: Rabbit stew, Soft cheese, Cabbage, Apple (cost 8sp).
+Supper: Pork liver, Cabbage, Broad beans, Mush, Walnut cake (cost 1gp).
+Snack: Soft cheese, Dates, Oatmeal (cost 4sp).
+ 
+
+
+Welcome to the Sorrowful Hostelry
+Today's Menu
+
+Breakfast
+Meatballs
+Soft cheese
+Quail eggs
+Currants
+Flatbread
+1gp
+
+Lunch
+Rabbit stew
+Soft cheese
+Cabbage
+Apple
+8sp
+
+Supper
+Pork liver
+Cabbage
+Broad beans
+Mush
+Walnut cake
+1gp
+
+Snack
+Soft cheese
+Dates
+Oatmeal
+4sp
+
+  	
+	Generate Tavern
+Tavern Name: Purple Hostelry
+Bartender: Female dwarf, 1st-level ranger
+Interesting Clientele: A sorcerer selling spells, a fighter looking for trouble.
+Rumors Overheard: At the eye of the storm that tears across the land lies a floating citadel. A halfling caravan must pass through an ankheg-infested wilderness. Thieves have stolen the crown jewels.
+Accommodations: Good (a small private room with one bed, some amenities and a covered chamber pot) for 5 sp/day
+Today's Menu: 
+Breakfast: Blood pudding, Curds, Duck eggs, Blackberries, Marzipan (cost 1gp).
+Lunch: Veal sweetbreads, Chicken eggs, Broad beans, Pear (cost 8sp).
+Supper: Broiled catfish, Leeks, Corn, Millet, Rhubarb pie (cost 1gp).
+Snack: Soft cheese, Marzipan, Corn pone (cost 8sp).
+ 
+
+
+Welcome to the Purple Hostelry
+Today's Menu
+
+Breakfast
+Blood pudding
+Curds
+Duck eggs
+Blackberries
+Marzipan
+1gp
+
+Lunch
+Veal sweetbreads
+Chicken eggs
+Broad beans
+Pear
+8sp
+
+Supper
+Broiled catfish
+Leeks
+Corn
+Millet
+Rhubarb pie
+1gp
+
+Snack
+Soft cheese
+Marzipan
+Corn pone
+8sp
+
+  	
+	Generate Tavern
+Tavern Name: Adventuring Maiden
+Bartender: Female half-ogre, 2nd-level rogue
+Interesting Clientele: Grim paladins on crusade, a group of elves sipping wine.
+Rumors Overheard: Treants in the woods are threatened by a huge fire of mysterious origin. Various monsters have long preyed upon people from within the sewers of a major city. Sahuagin are being driven out of the sea to attack coastal -villages.
+Accommodations: Good (a small private room with one bed, some amenities and a covered chamber pot) for 5 sp/day
+Today's Menu: 
+Breakfast: Kippers, Deep dwarven blue cheese, Goose eggs, Melon, Oatmeal (cost 6sp).
+Lunch: Rabbit stew, Gnomes’ yogurt, Green beans, Raspberries (cost 2gp).
+Supper: Broiled catfish, Chick peas, Okra, Oatmeal, Fruitcake (cost 1gp).
+Snack: Goose eggs, Raisins, Flatbread (cost 4sp).
+ 
+
+
+Welcome to the Adventuring Maiden
+Today's Menu
+
+Breakfast
+Kippers
+Deep dwarven blue cheese
+Goose eggs
+Melon
+Oatmeal
+6sp
+
+Lunch
+Rabbit stew
+Gnomes’ yogurt
+Green beans
+Raspberries
+2gp
+
+Supper
+Broiled catfish
+Chick peas
+Okra
+Oatmeal
+Fruitcake
+1gp
+
+Snack
+Goose eggs
+Raisins
+Flatbread
+4sp
+
+  	
+	Generate Tavern
+Tavern Name: Sign of the Cloud
+Bartender: Female halfling, 2nd-level cleric
+Interesting Clientele: A wizard deep in his cups, cloaked figure in corner.
+Rumors Overheard: A certain type of frogs, found only in an isolated valley, fall like rain on a major city. Ogres have kidnaped the mayor’s daughter. A druid needs help defending her grove against goblins.
+Accommodations: Good (a small private room with one bed, some amenities and a covered chamber pot) for 5 sp/day
+Today's Menu: 
+Breakfast: Beef steak, Chicken eggs, Quail eggs, Blueberries, Mush (cost 6sp).
+Lunch: Sausage, Duck eggs, Turnips, Strawberries (cost 8sp).
+Supper: Shark filet, Corn, Green beans, Rice, Apple pie (cost 2gp).
+Snack: Soft cheese, Melon, Flatbread (cost 4sp).
+ 
+
+
+Welcome to the Sign of the Cloud
+Today's Menu
+
+Breakfast
+Beef steak
+Chicken eggs
+Quail eggs
+Blueberries
+Mush
+6sp
+
+Lunch
+Sausage
+Duck eggs
+Turnips
+Strawberries
+8sp
+
+Supper
+Shark filet
+Corn
+Green beans
+Rice
+Apple pie
+2gp
+
+Snack
+Soft cheese
+Melon
+Flatbread
+4sp
+
+  	
+	Generate Tavern
+Tavern Name: Brave Beard
+Bartender: Female half-orc, 5th-level barbarian
+Interesting Clientele: Town guard captain having a meal, a few anonymous drunks.
+Rumors Overheard: A halfling caravan must pass through an ankheg-infested wilderness. An ancient sword must be recovered to defeat a ravaging -monster. A huge gemstone supposedly lies within an ancient ruined monastery.
+Accommodations: Good (a small private room with one bed, some amenities and a covered chamber pot) for 5 sp/day
+Today's Menu: 
+Breakfast: Owlbear chop, Curds, Chicken eggs, Assassin vine berries, Millet (cost 6sp).
+Lunch: Lamb stew, Chicken eggs, Green beans, Currants (cost 8sp).
+Supper: Broiled catfish, Potato, Succotash, Coarse rye bread, Custard (cost 1gp).
+Snack: Griffin-milk cheese, Sea-grapes, Millet (cost 4sp).
+ 
+
+
+Welcome to the Brave Beard
+Today's Menu
+
+Breakfast
+Owlbear chop
+Curds
+Chicken eggs
+Assassin vine berries
+Millet
+6sp
+
+Lunch
+Lamb stew
+Chicken eggs
+Green beans
+Currants
+8sp
+
+Supper
+Broiled catfish
+Potato
+Succotash
+Coarse rye bread
+Custard
+1gp
+
+Snack
+Griffin-milk cheese
+Sea-grapes
+Millet
+4sp
+
+  	
+	Generate Tavern
+Tavern Name: Lonesome Pony
+Bartender: Female tiefling, 5th-level barbarian
+Interesting Clientele: Halfling tourists, cleric of Pelor preaching in corner.
+Rumors Overheard: A nearby kingdom has launched an invasion. An ancient curse is turning innocent people into evil murderers. A mirror of opposition has created an evil duplicate of a hero.
+Accommodations: Good (a small private room with one bed, some amenities and a covered chamber pot) for 5 sp/day
+Today's Menu: 
+Breakfast: Hash, Chicken eggs, Duck eggs, Melon, Nut bread (cost 6sp).
+Lunch: Bulette fin, Soft cheese, Broccoli, Peach (cost 8sp).
+Supper: Beef steak, Potato, Green beans, Nut bread, Apple pie (cost 1gp).
+Snack: Curds, Pear, Corn pone (cost 4sp).
+ 
+
+
+Welcome to the Lonesome Pony
+Today's Menu
+
+Breakfast
+Hash
+Chicken eggs
+Duck eggs
+Melon
+Nut bread
+6sp
+
+Lunch
+Bulette fin
+Soft cheese
+Broccoli
+Peach
+8sp
+
+Supper
+Beef steak
+Potato
+Green beans
+Nut bread
+Apple pie
+1gp
+
+Snack
+Curds
+Pear
+Corn pone
+4sp
+
+  	
+	Generate Tavern
+Tavern Name: Courageous Cup
+Bartender: Female half-orc, 4th-level NPC commoner
+Interesting Clientele: A sorcerer selling spells, guardsmen on a stake-out.
+Rumors Overheard: An antidote to a magic poison must be found before the duke dies. Gravediggers have discovered a huge, ghoul-filled catacomb under the cemetery. Undead shadows vex a large library, especially an old storeroom long left undisturbed.
+Accommodations: Good (a small private room with one bed, some amenities and a covered chamber pot) for 5 sp/day
+Today's Menu: 
+Breakfast: Meatballs, Soft cheese, Curds, Melon, Mush (cost 6sp).
+Lunch: Rabbit stew, Duck eggs, Broccoli, Apple (cost 8sp).
+Supper: Pork liver, Corn, Pumpkin, Oatmeal, Plum pudding (cost 2gp).
+Snack: Curds, Peach, Millet (cost 4sp).
+ 
+
+
+Welcome to the Courageous Cup
+Today's Menu
+
+Breakfast
+Meatballs
+Soft cheese
+Curds
+Melon
+Mush
+6sp
+
+Lunch
+Rabbit stew
+Duck eggs
+Broccoli
+Apple
+8sp
+
+Supper
+Pork liver
+Corn
+Pumpkin
+Oatmeal
+Plum pudding
+2gp
+
+Snack
+Curds
+Peach
+Millet
+4sp
+
+  	
+	Generate Tavern
+Tavern Name: Brave Master
+Bartender: Female tiefling, 4th-level sorcerer
+Interesting Clientele: Youngsters on a lark, a sorcerer selling spells.
+Rumors Overheard: A shapechanged mind flayer is gathering mentally controlled servitors. A sorcerer attempted to travel ethereally but disappeared completely in the process. Bugbears are demanding a toll on a well-traveled bridge.
+Accommodations: Good (a small private room with one bed, some amenities and a covered chamber pot) for 5 sp/day
+Today's Menu: 
+Breakfast: Smoked sausage, Curds, Sharp cheese, Melon, Corn pone (cost 6sp).
+Lunch: Veal sweetbreads, Curds, Spinach, Raspberries (cost 8sp).
+Supper: Stuffed trout, Corn, Spinach, Flatbread, Custard (cost 1gp).
+Snack: Deep dwarven blue cheese, Raspberries, Millet (cost 4sp).
+ 
+
+
+Welcome to the Brave Master
+Today's Menu
+
+Breakfast
+Smoked sausage
+Curds
+Sharp cheese
+Melon
+Corn pone
+6sp
+
+Lunch
+Veal sweetbreads
+Curds
+Spinach
+Raspberries
+8sp
+
+Supper
+Stuffed trout
+Corn
+Spinach
+Flatbread
+Custard
+1gp
+
+Snack
+Deep dwarven blue cheese
+Raspberries
+Millet
+4sp
+
+  	
+	Generate Tavern
+Tavern Name: Pale Glass
+Bartender: Male dwarf, 2nd-level sorcerer
+Interesting Clientele: A wizard deep in his cups, humans gnawing turkey legs.
+Rumors Overheard: An ancient curse is turning innocent people into evil murderers. All the doors in the king’s castle are suddenly arcane locked and fire trapped. A woman who mysteriously vanished years ago has been seen walking on the surface of a lake.
+Accommodations: Good (a small private room with one bed, some amenities and a covered chamber pot) for 5 sp/day
+Today's Menu: 
+Breakfast: Fried perch, Chicken eggs, Curds, Blueberries, Mush (cost 6sp).
+Lunch: Lamb stew, Chicken eggs, Potato, Strawberries (cost 8sp).
+Supper: Mixed grill, Okra, Collard greens, Millet, Raisin pie (cost 1gp).
+Snack: Curds, Blackberries, Rice (cost 4sp).
+ 
+
+
+Welcome to the Pale Glass
+Today's Menu
+
+Breakfast
+Fried perch
+Chicken eggs
+Curds
+Blueberries
+Mush
+6sp
+
+Lunch
+Lamb stew
+Chicken eggs
+Potato
+Strawberries
+8sp
+
+Supper
+Mixed grill
+Okra
+Collard greens
+Millet
+Raisin pie
+1gp
+
+Snack
+Curds
+Blackberries
+Rice
+4sp
+
+  	
+	Generate Tavern
+Tavern Name: Laughing Bear
+Bartender: Female dwarf, 7th-level NPC aristocrat
+Interesting Clientele: Company of stalwart adventurers, youngsters on a lark.
+Rumors Overheard: Two well-known heroes will soon fight a duel. The high priest is an illusion. Lizardfolk riding dragon turtles sell their services as mercenaries to the highest bidder.
+Accommodations: Good (a small private room with one bed, some amenities and a covered chamber pot) for 5 sp/day
+Today's Menu: 
+Breakfast: Ham, Soft cheese, Goose eggs, Raisins, Mush (cost 6sp).
+Lunch: Lamb stew, Soft cheese, Green beans, Blackberries (cost 8sp).
+Supper: Beef steak, Collard greens, Taro, Tahini, Spice bread (cost 1gp).
+Snack: Chicken eggs, Raspberries, Mush (cost 4sp).
+ 
+
+
+Welcome to the Laughing Bear
+Today's Menu
+
+Breakfast
+Ham
+Soft cheese
+Goose eggs
+Raisins
+Mush
+6sp
+
+Lunch
+Lamb stew
+Soft cheese
+Green beans
+Blackberries
+8sp
+
+Supper
+Beef steak
+Collard greens
+Taro
+Tahini
+Spice bread
+1gp
+
+Snack
+Chicken eggs
+Raspberries
+Mush
+4sp
+
+  	
+	Generate Tavern
+Tavern Name: Motley Dwarf
+Bartender: Male tiefling, 8th-level cleric
+Interesting Clientele: Adventurers planing their next move, a rogue secretly emptying purses.
+Rumors Overheard: Vampires are preying upon a small town. A plague brought by wererats threatens a community. A sorcerer attempted to travel ethereally but disappeared completely in the process.
+Accommodations: Good (a small private room with one bed, some amenities and a covered chamber pot) for 5 sp/day
+Today's Menu: 
+Breakfast: Meatballs, Curds, Soft cheese, Melon, Oatmeal (cost 6sp).
+Lunch: Lamb stew, Chicken eggs, Spinach, Strawberries (cost 8sp).
+Supper: Lamb chop, Leeks, Broad beans, Rice, Fruitcake (cost 1gp).
+Snack: Curds, Melon, Nut bread (cost 4sp).
+ 
+
+
+Welcome to the Motley Dwarf
+Today's Menu
+
+Breakfast
+Meatballs
+Curds
+Soft cheese
+Melon
+Oatmeal
+6sp
+
+Lunch
+Lamb stew
+Chicken eggs
+Spinach
+Strawberries
+8sp
+
+Supper
+Lamb chop
+Leeks
+Broad beans
+Rice
+Fruitcake
+1gp
+
+Snack
+Curds
+Melon
+Nut bread
+4sp
+
+  	
+	Generate Tavern
+Tavern Name: Adventuring Gargoyle
+Bartender: Female half-elf, 5th-level NPC aristocrat
+Interesting Clientele: A snobby aristocrat, a press-gang collecting drunks.
+Rumors Overheard: Cultists are kidnapping potential sacrifices. The statue in the town square was found to be a petrified paladin. A wizard needs a particularly rare spell component found only in the deep jungle.
+Accommodations: Good (a small private room with one bed, some amenities and a covered chamber pot) for 5 sp/day
+Today's Menu: 
+Breakfast: Dog stew, Duck eggs, Sharp cheese, Strawberries, Rice (cost 6sp).
+Lunch: Pork chop, Sharp cheese, Giant bean, Currants (cost 8sp).
+Supper: Stuffed trout, Chick peas, Collard greens, Corn pone, Rice pudding (cost 1gp).
+Snack: Duck eggs, Stewed prunes, Goblin bannock (cost 4sp).
+ 
+
+
+Welcome to the Adventuring Gargoyle
+Today's Menu
+
+Breakfast
+Dog stew
+Duck eggs
+Sharp cheese
+Strawberries
+Rice
+6sp
+
+Lunch
+Pork chop
+Sharp cheese
+Giant bean
+Currants
+8sp
+
+Supper
+Stuffed trout
+Chick peas
+Collard greens
+Corn pone
+Rice pudding
+1gp
+
+Snack
+Duck eggs
+Stewed prunes
+Goblin bannock
+4sp
+
+  	
+	Generate Tavern
+Tavern Name: Brave Gargoyle
+Bartender: Male half-orc, 9th-level cleric
+Interesting Clientele: Cloaked figure in corner, guardsmen on a stake-out.
+Rumors Overheard: Buried below the Tree of the World lies the Master Clock of Time. Someone is sabotaging wagons and carts to come apart when they travel at high speed. A druid needs help defending her grove against goblins.
+Accommodations: Good (a small private room with one bed, some amenities and a covered chamber pot) for 5 sp/day
+Today's Menu: 
+Breakfast: Frog legs, Chicken eggs, Curds, Strawberries, Rice (cost 6sp).
+Lunch: Giant toad tongue, Sharp cheese, Lentils, Raspberries (cost 2gp).
+Supper: Mixed grill, Chick peas, Spinach, Marzipan, Fruitcake (cost 1gp).
+Snack: Soft cheese, Blackberries, Tahini (cost 4sp).
+ 
+
+
+Welcome to the Brave Gargoyle
+Today's Menu
+
+Breakfast
+Frog legs
+Chicken eggs
+Curds
+Strawberries
+Rice
+6sp
+
+Lunch
+Giant toad tongue
+Sharp cheese
+Lentils
+Raspberries
+2gp
+
+Supper
+Mixed grill
+Chick peas
+Spinach
+Marzipan
+Fruitcake
+1gp
+
+Snack
+Soft cheese
+Blackberries
+Tahini
+4sp
+
+  	
+	Generate Tavern
+Tavern Name: Whispering Warrior
+Bartender: Male human, 7th-level cleric
+Interesting Clientele: A ranger looking for her wolf, a bard performing for drinks.
+Rumors Overheard: A strange green smoke billows out of a cave near a mysterious ruin. Barge pirates have made a deal with a covey of hags and exact a high toll to use the river. New construction reveals a previously unknown underground tomb.
+Accommodations: Good (a small private room with one bed, some amenities and a covered chamber pot) for 5 sp/day
+Today's Menu: 
+Breakfast: Meatballs, Soft cheese, Duck eggs, Blackberries, Mush (cost 6sp).
+Lunch: Lamb stew, Gnomes’ yogurt, Collard greens, Blueberries (cost 8sp).
+Supper: Dog stew, Cabbage, Leeks, Corn pone, Plain cake (cost 1gp).
+Snack: Quail eggs, Raisins, Corn pone (cost 4sp).
+ 
+
+
+Welcome to the Whispering Warrior
+Today's Menu
+
+Breakfast
+Meatballs
+Soft cheese
+Duck eggs
+Blackberries
+Mush
+6sp
+
+Lunch
+Lamb stew
+Gnomes’ yogurt
+Collard greens
+Blueberries
+8sp
+
+Supper
+Dog stew
+Cabbage
+Leeks
+Corn pone
+Plain cake
+1gp
+
+Snack
+Quail eggs
+Raisins
+Corn pone
+4sp
+
+  	
+	Generate Tavern
+Tavern Name: Goodly Maiden
+Bartender: Male half-ogre, 10th-level barbarian
+Interesting Clientele: A sorcerer selling spells, a fighter looking for trouble.
+Rumors Overheard: An evil noble has put a price on a good noble’s head. Gargoyles are killing giant eagles in the mountains. Clerics who have resurrected a long-dead hero discovered she’s not what they thought.
+Accommodations: Good (a small private room with one bed, some amenities and a covered chamber pot) for 5 sp/day
+Today's Menu: 
+Breakfast: Octopus, Soft cheese, Curds, Raspberries, Corn pone (cost 6sp).
+Lunch: Sausage, Curds, Succotash, Peach (cost 8sp).
+Supper: Mixed grill, Collard greens, Leeks, Rice, Berry pie (cost 1gp).
+Snack: Chicken eggs, Dates, Millet (cost 4sp).
+ 
+
+
+Welcome to the Goodly Maiden
+Today's Menu
+
+Breakfast
+Octopus
+Soft cheese
+Curds
+Raspberries
+Corn pone
+6sp
+
+Lunch
+Sausage
+Curds
+Succotash
+Peach
+8sp
+
+Supper
+Mixed grill
+Collard greens
+Leeks
+Rice
+Berry pie
+1gp
+
+Snack
+Chicken eggs
+Dates
+Millet
+4sp
+
+  	
+	Generate Tavern
+Tavern Name: Pale Ranger
+Bartender: Male elf, 2nd-level barbarian
+Interesting Clientele: A few anonymous drunks, party of rowdy dwarves.
+Rumors Overheard: The statue in the town square was found to be a petrified paladin. A jealous rival threatens to stop a well-attended wedding. The keys to disarming all the magic traps in a wizard’s tower have gone missing.
+Accommodations: Good (a small private room with one bed, some amenities and a covered chamber pot) for 5 sp/day
+Today's Menu: 
+Breakfast: Fried perch, Curds, Duck eggs, Raisins, Sea oats (cost 6sp).
+Lunch: Triceratops steak, Deep dwarven blue cheese, Leeks, Strawberries (cost 8sp).
+Supper: Pork liver, Peas, Potato, Millet, Raisin pie (cost 1gp).
+Snack: Soft cheese, Raspberries, Centaur rye (cost 4sp).
+ 
+
+
+Welcome to the Pale Ranger
+Today's Menu
+
+Breakfast
+Fried perch
+Curds
+Duck eggs
+Raisins
+Sea oats
+6sp
+
+Lunch
+Triceratops steak
+Deep dwarven blue cheese
+Leeks
+Strawberries
+8sp
+
+Supper
+Pork liver
+Peas
+Potato
+Millet
+Raisin pie
+1gp
+
+Snack
+Soft cheese
+Raspberries
+Centaur rye
+4sp
+
+  	
+	Generate Tavern
+Tavern Name: Lonesome Blackguard
+Bartender: Female elf, 3rd-level rogue
+Interesting Clientele: Adventurers planing their next move, a snobby aristocrat.
+Rumors Overheard: Someone is sabotaging wagons and carts to come apart when they travel at high speed. A clutch of wyverns is preying upon sheep as well as shepherds. A fire elemental has escaped from a wizard’s lab.
+Accommodations: Good (a small private room with one bed, some amenities and a covered chamber pot) for 5 sp/day
+Today's Menu: 
+Breakfast: Kippers, Sharp cheese, Curds, Currants, Nut bread (cost 6sp).
+Lunch: Chicken half, Chicken eggs, Assassin vine leaf, Pear (cost 8sp).
+Supper: Lamb chop, Leeks, Peas, Coarse rye bread, Fruitcake (cost 1gp).
+Snack: Duck eggs, Blueberries, Oatmeal (cost 4sp).
+ 
+
+
+Welcome to the Lonesome Blackguard
+Today's Menu
+
+Breakfast
+Kippers
+Sharp cheese
+Curds
+Currants
+Nut bread
+6sp
+
+Lunch
+Chicken half
+Chicken eggs
+Assassin vine leaf
+Pear
+8sp
+
+Supper
+Lamb chop
+Leeks
+Peas
+Coarse rye bread
+Fruitcake
+1gp
+
+Snack
+Duck eggs
+Blueberries
+Oatmeal
+4sp
+
+  	
+	Generate Tavern
+Tavern Name: Adventuring Blackguard
+Bartender: Male half-elf, 2nd-level sorcerer
+Interesting Clientele: Grim paladins on crusade, a rogue secretly emptying purses.
+Rumors Overheard: Sahuagin are being driven out of the sea to attack coastal -villages. Various monsters have long preyed upon people from within the sewers of a major city. At the eye of the storm that tears across the land lies a floating citadel.
+Accommodations: Good (a small private room with one bed, some amenities and a covered chamber pot) for 5 sp/day
+Today's Menu: 
+Breakfast: Hash, Duck eggs, Deep dwarven blue cheese, Raisins, Corn pone (cost 6sp).
+Lunch: Bulette fin, Curds, Leeks, Raspberries (cost 8sp).
+Supper: Broiled catfish, Potato, Peas, Millet, Applesauce (cost 1gp).
+Snack: Soft cheese, Currants, Flatbread (cost 4sp).
+ 
+
+
+Welcome to the Adventuring Blackguard
+Today's Menu
+
+Breakfast
+Hash
+Duck eggs
+Deep dwarven blue cheese
+Raisins
+Corn pone
+6sp
+
+Lunch
+Bulette fin
+Curds
+Leeks
+Raspberries
+8sp
+
+Supper
+Broiled catfish
+Potato
+Peas
+Millet
+Applesauce
+1gp
+
+Snack
+Soft cheese
+Currants
+Flatbread
+4sp
