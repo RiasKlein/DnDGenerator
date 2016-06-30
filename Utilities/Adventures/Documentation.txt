@@ -1,0 +1,113 @@
+Adventures:
+1. Party Goals
+2. Important NPCs
+
+################################################################################
+# 	1. Party Goals
+################################################################################
+
+
+#	Dungeon Goals
+
+1. Stop the dungeon's monstrous inhabitants from raiding the surface world. 
+2. Foil a villain's evil scheme. 
+3. Destroy a magical threat inside the dungeon. 
+4. Acquire treasure. 
+5. Find a particular item for a specific purpose. 
+6. Retrieve a stolen item hidden in the dungeon. 
+7. Find information needed for a special purpose. 
+8. Rescue a captive. 
+9. Discover the fate of a previous adventuring party. 
+10. Find an NPC who disappeared in the area. 
+11. Slay a dragon or some other challenging monster. 
+12. Discover the nature and origin of a strange location or phenomenon. 
+13. Pursue fleeing foes taking refuge in the dungeon.
+14. Escape from captivity in the dungeon. 
+15. Clear a ruin so it can be rebuilt and reoccupied. 
+16. Discover why a villain is interested in the dungeon. 
+17. Win a bet or complete a rite of passage by surviving in the dungeon for a certain amount oftime. 
+18. Parley with a villain in the dungeon. 
+19. Hide from a threat outside the dungeon. 
+20. Roll twice, ignoring results of 20. 
+
+
+#	Wilderness Goals
+
+1. Locate a dungeon or other site of interest (roll on the Dungeon Goals table to find out why). 
+2. Assess the scope of a natural or unnatural disaster. 
+3. Escort an NPC to a destination. 
+4. Arrive at a destination without being seen by the villain's forces. 
+5. Stop monsters from raiding caravans and farms. 
+6. Establish trade with a distant town. 
+7. Protect a caravan traveling to a distant town. 
+8. Map a new land. 
+9. Find a place to establish a colony. 
+10. Find a natural resource. 
+11. Hunt a specific monster. 
+12. Return home from a distant place. 
+13. Obtain information from a reclusive hermit. 
+14. Find an object that was lost in the wilds. 
+15. Discover the fate of a missing group of explorers. 
+16. Pursue fleeing foes. 17 Assess the size of an approaching army. 
+18. Escape the reign of a tyrant. 
+19. Protect a wilderness site from attackers. 
+20. Roll twice, ignoring results of 20. 
+
+
+#	Other Goals
+
+1. Seize control of a fortified location such as a fortress, town, or ship. 
+2. Defend a location from attackers. 
+3. Retrieve an object from inside a secure location in a settlement. 
+4. Retrieve an object from a caravan. 
+5. Salvage an object or goods from a lost vessel or caravan. 
+6. Break a prisoner out of a jail or prison camp. 
+7. Escape from a jail or prison camp. 
+8. Successfully travel through an obstacle course to gain recognition or reward. 
+9. Infiltrate a fortified location. 
+10. Find the source of strange occurrences in a haunted house or other location. 
+11. Interfere with the operation of a business. 
+12. Rescue a character, monster, or object from a natural or unnatural disaster. 
+
+
+################################################################################
+# 	2. Important NPCs
+################################################################################
+
+
+# 	Villains
+
+1. Beast or monstrosity with no particular agenda 
+2. Aberration bent on corruption or domination 
+3. Fiend bent on corruption or destruction 
+4. Dragon bent on domination and plunder 
+5. Giant bent on plunder 
+6. Undead with any agenda 
+7. Fey with a mysterious goal 
+8. Humanoid cultist 
+9. Humanoid conqueror 
+10. Humanoid seeking revenge 
+11. Humanoid schemer seeking to rule 
+12. Humanoid criminal mastermind 
+13. Humanoid raider or ravager 
+14. Humanoid under a curse 
+15. Misguided humanoid zealot 
+
+
+# 	Patrons
+
+1. Retired adventurer 
+2. Old friend 
+3. Local ruler 
+4. Former teacher 
+5. Military officer 
+6. Parent or other family member 
+7. Temple official 
+8. Sage 
+9. Desperate commoner
+10. Respected elder  
+11. Deity or celestial 
+12. Embattled merchant
+13. Mysterious fey  
+14. Villain posing as a patron 
+ 

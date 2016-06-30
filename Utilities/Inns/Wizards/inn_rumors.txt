@@ -7,8 +7,8 @@ An emissary going into a hostile kingdom needs an escort.
 The high priest is an illusion.
 A fire elemental has escaped from a wizard’s lab.
 All the doors in the king’s castle are suddenly arcane locked and fire trapped.
-A infestation of stirges drives yuan-ti closer to civilized lands.
-A prophecy foretells of coming doom unless an artifact is -recovered.
+An infestation of stirges drives yuan-ti closer to civilized lands.
+A prophecy foretells of coming doom unless an artifact is recovered.
 Evil nobles have created an adventurers’ guild to monitor and control adventurers.
 Undead shadows vex a large library, especially an old storeroom long left undisturbed.
 At the eye of the storm that tears across the land lies a floating citadel.
@@ -22,7 +22,7 @@ The funeral for a good fighter was disrupted by enemies he made while alive.
 Slavers continue to raid a local community.
 A lonely mountain pass is guarded by a powerful sphinx denying all passage.
 A shapechanged mind flayer is gathering mentally controlled servitors.
-An ancient sword must be recovered to defeat a ravaging -monster.
+An ancient sword must be recovered to defeat a ravaging monster.
 A huge dire wolf, apparently immune to magic, is organizing the wolves in the wood.
 The tomb of a powerful wizard, filled with magic items, has sunk into the swamp.
 A paladin’s quest for atonement led her to a troll lair too well-defended for her to tackle alone.
@@ -47,7 +47,7 @@ Buried below the Tree of the World lies the Master Clock of Time.
 A clutch of wyverns is preying upon sheep as well as shepherds.
 A halfling caravan must pass through an ankheg-infested wilderness.
 An earthquake has uncovered a previously unknown dungeon.
-Sahuagin are being driven out of the sea to attack coastal -villages.
+Sahuagin are being driven out of the sea to attack coastal villages.
 The door into an abandoned house in the middle of town is in fact a magic portal.
 Someone is sabotaging wagons and carts to come apart when they travel at high speed.
 Mysterious merchants sell faulty magic items in town and then attempt to slink away.
@@ -82,7 +82,7 @@ New construction reveals a previously unknown underground tomb.
 A map showing the location of an ancient magic forge is discovered.
 Miners have accidentally released something awful that once was buried deep.
 A kingdom known for its wizards prepares for war.
-Ogres have kidnaped the mayor’s daughter.
+Ogres have kidnapped the mayor’s daughter.
 A sorcerer attempted to travel ethereally but disappeared completely in the process.
 People grow suspicious of half-orc merchants peddling gold dragon parts in the market.
 A bulette is tearing apart viable farmland.

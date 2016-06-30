@@ -6,5 +6,20 @@ Generated random inns have:
 * Name
 * Innkeeper
 * Rumors
-* Menu
 * Accommodations
+
+################################################################################
+#	Rumor 
+################################################################################
+
+Randomly generated rumors will have the structure:
+Actors + Action 
+
+Actors are the people or items that the rumor is describing.
+Actions decribe either what the players must do about the actors or what the actors are doing.
+
+################################################################################
+#	Changelog
+################################################################################
+
+6.30.16 12.26 - Rumors modified to have form: Actors + Action

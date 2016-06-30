@@ -1,0 +1,150 @@
+World Shaking Events Generation:
+
+1. Rise of a leader or an era
+2. Fall of a leader or an era
+3. Cataclysmic disaster
+4. Assault or invasion
+5. Rebellion, revolution, overthrow
+6. Extinction or depletion
+7. New organization
+8. Discovery, expansion, invention
+9. Prediction, omen, prophecy
+10. Myth and Legend
+
+################################################################################
+# 	1 - 2. Rise / Fall of a leader or era
+################################################################################
+
+Leader Types:
+1. Political
+2. Religious
+3. Military
+4. Crime / Underworld
+5. Art / Culture
+6. Philosophy / Learning / Magic
+
+Rise:
+1. What was happening before the leader's rise?
+2. What allowed the leader to rise to power?
+3. What is a flaw in the leadership of this new leader?
+4. Who believes in the leader / who doubts the leader?
+
+Fall:
+1. What did the leader's influence do during their rule? Does it still persist?
+2. What was the populations mood under the control of this leader?
+3. Who tried to fill in the leader's position in the resulting power vacuum?
+
+################################################################################
+#	3. Cataclysmic disaster
+################################################################################
+
+1. Earthquake
+2. Famine / drought
+3. Fire
+4. Flood
+5. Plague / Disease
+6. Rain of fire (meteoric impact)
+7. Storm (hurricane / tornado / tsunami)
+8. Volcanic eruption
+9. Magice gone awry or a planar warp
+10. Divine judgement
+
+Questions:
+1. What caused this disaster?
+2. What were the omens foreshadowing the events?
+
+################################################################################
+#	4. Assault / Invasion
+################################################################################
+
+Invaders:
+1. A criminal enterprise
+2. Monsters or a unique monster
+3. A planar threat
+4. A past adversary reawakened, reborn, or resurgent
+5. A splinter faction
+6. A savage tribe
+7. A secret society
+8. A traitorous ally
+
+Questions:
+1. What didn't the defenders expect about the invasion for it to have happened?
+2. What happened to the first defenders?
+3. What were the motives of the invaders?
+4. Who turned into the traitor that helped the invasion?
+
+################################################################################
+#	5. Rebellion, revolution, overthrow
+################################################################################
+
+Questions:
+1. What did the rebels want to achieve?
+2. What did the rebels achieve in their success?
+3. What was the cost of the rebel's actions?
+4. What was driving the rebel leader through these events?
+5. What was the problem before the rebellion?
+
+################################################################################
+#	6. Extinction or depletion
+################################################################################
+
+What was lost?
+1. A kind of animal (insect / bird / fish / livestock)
+2. Habitable land
+3. Magic or magic-users (all magic, or specific kinds of schools of magic)
+4. A mineral resource (gems / metals / ores)
+5. A type of monster (unicorn / manticore / dragon)
+6. A people (family line / clan / culture / race)
+7. A kind of plant (crop / tree / herb / forest)
+8. A waterway (river / lake / ocean)
+
+Questions:
+1. Who depended on the now missing thing?
+2. What was the reason for the loss?
+3. Immediate consequence of the loss?
+
+################################################################################
+# 	7. New organization
+################################################################################
+
+Type:
+1. Crime syndicate / bandit confederacy
+2. Guild (masons / apothecaries / goldsmiths)
+3. Magical circle / society
+4. Military / Knightly order
+5. New family dynasty / tribe / clan
+6. Philosophy / discipline dedicated to a principle or ideal
+7. Realm (village / town / duchy / kingdom)
+8. Religion / sect / denomination
+9. School / university
+10. Secret society / cult / cabal
+
+Questions:
+1. Who or what did the new organization replace?
+2. Who does the new organization appeal to?
+3. The leader has a special quality, what is it?
+4. A rival group opposes the new faction, why?
+
+################################################################################
+#	8. Discovery, expansion, invention
+################################################################################
+
+Type:
+1. Ancient ruins / lost city of a legendary race
+2. Animal / monster / magical mutation
+3. Invention / technology / magic (helpful, destructive)
+4. New (or forgotten) god or planar entity
+5. New (or rediscovered) artifact or religious relic
+6. New land (island / continent / lost word / demiplane)
+7. Otherworldy object (planar portal / alien spacecraft)
+8. People (race / tribe / lost civizliation / colony)
+9. Plant (miracle herb / fungal parasite / sentient plant)
+10. Resource or wealth (gold / gems / mithral)
+
+################################################################################
+#	9. Prediction, omen, prophecy
+################################################################################
+
+################################################################################
+#	10. Myth and Legend
+################################################################################
