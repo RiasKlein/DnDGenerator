@@ -17,7 +17,7 @@ A jealous rival
 A kingdom known for its wizards
 A lonely mountain pass
 A major city
-A map
+A map showing the location of an ancient magic forge
 A mirror of opposition
 A mysterious fog
 A nearby kingdom
@@ -34,7 +34,7 @@ A wizard
 A wizard's guild
 A woman who mysteriously vanished years ago
 A wronged half-elf
-Adventurers
+Adventurers exploring a dungeon
 All the doors in the king's castle
 All the dwarves in an underground city
 An absentminded wizard
@@ -49,7 +49,7 @@ An evil tyrant
 An infestation of stirges
 An innocent man, about to be hanged,
 An island at the center of the lake
-At the eye of the storm
+At the eye of the storm that tears across the land
 Barbarians
 Barge pirates
 Bugbears
@@ -62,9 +62,9 @@ Evil mercenaries
 Evil nobles
 Gargoyles
 Giants
-Goblins
+Goblins riding spider eaters
 Gravediggers
-Lizardfolk
+Lizardfolk riding dragon turtles
 Local bandits
 Local militia
 Miners
