@@ -21,7 +21,9 @@ def main():
 		if not line: break
 		
 		line = line.strip('\n ')
-		list.append (line.rstrip(' '))
+
+		if line not in list:
+			list.append (line.rstrip(' '))
 		
 	rfile.close()
 	

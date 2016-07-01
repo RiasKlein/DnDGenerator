@@ -28,12 +28,15 @@ plural_dict = {} 	# plural_dict has keys that are singular and values that are p
 # Singular keys
 singular_keys = ['a', 'an']
 
+num_rumors_to_gen = 3
+
 def main():
 	# Initialize the data needed for generating rumors
 	initialize()
 	
-	# Output a rumor 
-	print (generateRumor())
+	# Output rumors
+	for x in range (num_rumors_to_gen):
+		print (generateRumor())
 
 # generateRumor
 #	Generates a rumor by merging a random actor with an action
@@ -165,16 +168,11 @@ def readFiletoList ( filename, list ):
 # updateFilenames
 #	Updates the global filename variables with provided arguments (if there are any)
 def updateFilenames():
-	# If both filenames were provided, update our globals
+	# If filenames were provided, update our globals
 	if len (sys.argv) > 2:
 		global actions_filename
 		global actors_filename
 		actors_filename = sys.argv[1]
 		actions_filename = sys.argv[2]
-		
-	# If only one filename was provided, give a warning.
-	if len (sys.argv) == 2:
-		print ("genRumor.py requires 2 file names, one for actors and one for actions (in that order).")
-		print ("Default filenames were used instead.")
 
 main()

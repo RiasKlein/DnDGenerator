@@ -1,4 +1,6 @@
 # This is a comment - Comments follow the python standard of starting with a '#' symbol
+An adventurer
+A barbarian
 A bard
 A blackguard
 A bulette
@@ -8,7 +10,14 @@ A child
 A community of gnomes
 A dragon
 A druid
+An air elemental
+An earth elemental
+A water elemental
 A fire elemental
+A bandit
+A group of bandits
+A treasure-hunter
+An ancient evil
 A gate to the Lower Planes
 A halfling caravan
 A haunted tower
@@ -20,9 +29,11 @@ A lonely mountain pass
 A major city
 A map showing the location of an ancient magic forge
 A mirror of opposition
+A monk
 A mysterious fog
 A nearby kingdom
 A new noble
+A paladin
 A paladin's quest for atonement
 A plague
 A prophacy
@@ -30,17 +41,21 @@ A recently recovered artifact
 A shapechanged mind flayer
 A sorcerer
 A strange green smoke
-A wizard
+A warlock
 A wizard
 A wizard's guild
+A blacksmith
 A woman who mysteriously vanished years ago
 A wronged half-elf
 Adventurers exploring a dungeon
 All the doors in the king's castle
 All the dwarves in an underground city
+All the fish in a small town
 An absentminded wizard
 An ancient curse
 An ancient sword
+An ancient lance
+A potion
 An antidote to a magic poison
 An earthquake
 An emissary
@@ -71,6 +86,7 @@ Local militia
 Miners
 Mysterious groaning noises
 Mysterious merchants
+Mysterious flashes of light
 New construction
 Ogres
 Orcs

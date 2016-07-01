@@ -1,7 +1,22 @@
 # This is a comment - Comments follow the python standard of starting with a '#' symbol
-are killing giant eagles in the mountains. 
+are plotting to invade a hamlet.
+are plotting to invade a town.
+are plotting to invade a city.
+are plotting to invade a major city.
+are killing giant eagles in the mountains.
+are killing wildlife in a nearby forest indiscriminately.
+are killing the fish in a lake.
+are driving a certain species of bird toward extinction. 
 brought by wererats threatens a community.
+brought by rabbits threatens a community.
+brought by merchants threatens a community.
+brought by bandits threatens a community.
+brought by a evil wizard threatens a community.
 are threatened by a huge fire of mysterious origin.
+are threatened by a large wave of mysterious origin.
+are threatened by an unknown sickness.
+are threatened by a plague.
+tells of a tavern tale of his imprisoned companions.
 tells of a tavern tale of his imprisoned companions.
 have joined forces with a tribe of bugbears.
 going into a hostile kingdom needs an escort.
