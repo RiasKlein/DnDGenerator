@@ -1,3 +1,4 @@
+# This is a comment - Comments follow the python standard of starting with a '#' symbol
 are killing giant eagles in the mountains. 
 brought by wererats threatens a community.
 are threatened by a huge fire of mysterious origin.
@@ -35,7 +36,7 @@ is missing.
 causes arcane spellcasters' powers to go awry.
 wage a bloody war.
 is reputed to be filled with treasure.
-pleasds for someone to help them.
+pleads for someone to help them.
 has flown into a town and demanded tribute.
 is buried in a trap-filled tomb with their powerful magic items.
 are kidnapping potential sacrifices.
