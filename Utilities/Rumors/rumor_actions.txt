@@ -6,7 +6,7 @@ are plotting to invade a major city.
 are killing giant eagles in the mountains.
 are killing wildlife in a nearby forest indiscriminately.
 are killing the fish in a lake.
-are driving a certain species of bird toward extinction. 
+are killing all the four-legged animals in the nearby forest.
 brought by wererats threatens a community.
 brought by rabbits threatens a community.
 brought by merchants threatens a community.
@@ -16,39 +16,122 @@ are threatened by a huge fire of mysterious origin.
 are threatened by a large wave of mysterious origin.
 are threatened by an unknown sickness.
 are threatened by a plague.
-tells of a tavern tale of his imprisoned companions.
-tells of a tavern tale of his imprisoned companions.
+tells of a tavern tale of their imprisoned companions.
+tells of a tavern tale of their perilous and epic adventures at mountains that reach beyond the clouds.
+tells of a tavern tale of their business ventures in the kingdom.
+tells of a tavern tale of a town of all gorgeous men.
+tells of a tavern tale of a town of all gorgeous women.
 have joined forces with a tribe of bugbears.
+have joined forces with a tribe of orcs.
+have joined forces with a tribe of yuan-ti.
+have joined forces with a tribe of kobolds.
 going into a hostile kingdom needs an escort.
+going into a hostile mountain range needs an escort.
+going into a hostile forest needs an escort.
+going into a unknown territory rumored to be hostile needs an escort.
 is an illusion.
+is stuck in a dream.
+is a shadow of their former self.
+is forgotten by everyone in their hometown.
 has escaped from a wizard's lab.
+has escaped from the local prison.
+has escaped from bandits and now those bandits are angry.
+has escaped from servitude.
 are suddenly arcane locked and fire trapped.
+are suddenly arcane locked.
+are suddenly attacking nearby creatures and having no recollection of it.
+are suddenly disappearing from the memories of people.
 drives yuan-ti closer to civilized lands.
-of coming doom unless an artifact is recovered.
+drives all kinds of serpents closer to civilized lands.
+drives cursed items closer to civilized lands.
+drives reclusive tribes closer to civilized lands.
+hints of coming doom unless an artifact is recovered.
+hints of coming doom unless the most beautiful person in the town is sacrificed.
+hints of coming doom unless the nearby people donate their money to adventurers' guild.
+hints of coming doom unless the tome of a god is found.
 have created an adventurers' guild to monitor and control adventurers.
-vex a large library, especially an old storeroom long left undisturbed.
+have created a crafting guild to monitor and control local crafters.
+have created a popular social hangout to monitor and control the locals.
+have created a weapons shop to monitor and control the flow of weapons in the region.
 lies a floating citadel.
+lies a floating island described in the tales of old.
+lies a floating island powered by ancient magic.
+lies a floating island with ancient artifacts.
 has launched an invasion.
+has declared war.
+has called for a cease-fire in order to discuss options for peace.
+has declared exploring local dungeons illegal.
+has declared exploring local mountains illegal.
+has declared exploring local forests illegal.
+has declared being outside at night illegal. 
 are rising.
+are falling.
+are changing unpredictably.
+are disappearing.
 has built a flying ship.
-have made a deal with a covey of hags and exact a high toll to use the river.
+has created a new form of long-distance communication.
+has created a solution with a smell that attracts creatures with lesser intelligence.
+has created a tonic that can cure almost all sicknesses. 
+has made a deal with a covey of hags and exact a high toll to use the river.
+has made a deal with a tribe of goblins to cooperatively attack traveling merchants for their goods.
+has made a deal with the local business giant to control the market.
+has made a deal with a corrupt official to conduct human trafficking in the region.
 will soon fight a duel.
+will soon leave the town.
+will soon have a child.
+will soon complete their training to become a master of their craft.
 must be found before the duke dies.
-was dirupted by enemies.
+must be found before the end of the month.
+must be found before the rumored terror returns to the region.
+must be found before either side declares war.
+was disrupted by enemies.
+was disrupted by traitorous allies.
+was disrupted by a unknown force.
+was disrupted by a the heavens.
 continue to raid a local community.
+continue to assist a local community.
+continue to bring harm to a local community.
+continue to bring luck to a local community.
 is guarded by a powerful sphinx denying all passage.
+is guarded by a powerful dragon denying all passage.
+is guarded by a powerful naga denying all passage.
+is guarded by a powerful demon denying all passage.
 is gathering mentally controlled servitors.
+is gathering large quantities of poisonous herbs.
+is gathering large quantities of metals from the market.
+is gathering large quantities of food from the market.
 must be recovered to defeat a ravaging monster.
+must be recovered to prevent the revival of a long forgotten terror.
+must be recovered to seal a ravaging monster.
+must be recovered to defend the local community.
 is organizing the wolves in the wood.
+is organizing the hobgoblins in the wood.
+is organizing the goblins in the wood.
+is organizing the creatures in the wood.
 has sunk into the swamp.
+has sunk into a sinkhole.
+has sunk into the ocean.
 led them to a troll's lair too well-defended for them to tackle alone.
-is compelling others to steal for him.
+led them to a lich's lair too well-defended for them to tackle alone.
+led them to a dragons's lair too well-defended for them to tackle alone.
+led them to a demon's lair too well-defended for them to tackle alone.
+is compelling others to steal for them.
+is compelling others to kill for them.
+is compelling others to harass local communities for them.
+is compelling others to commit all sorts of crimes at night.
 has been seen walking on the surface of a lake.
+has been seen walking in the air.
+has been seen walking atop trees.
+has been seen riding lightning.
 has gone missing.
 is a werewolf.
+is a vampire.
+is a demon in disguise.
+is an angel in disguise.
 has been discovered.
 is missing.
 causes arcane spellcasters' powers to go awry.
+causes arcane spellcasters' powers to temporarily become more potent.
 wage a bloody war.
 is reputed to be filled with treasure.
 pleads for someone to help them.
