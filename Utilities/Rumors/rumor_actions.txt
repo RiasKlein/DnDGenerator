@@ -132,24 +132,70 @@ has been discovered.
 is missing.
 causes arcane spellcasters' powers to go awry.
 causes arcane spellcasters' powers to temporarily become more potent.
+causes arcane spellcasters' powers to temporarily become weaker.
+causes arcane spellcasters' powers to become more difficult to use.
 wage a bloody war.
+wage a cold war.
 is reputed to be filled with treasure.
+is reputed to contain a magical item.
+is reputed to contain a secret long sealed away.
+is reputed to have ancient knowledge.
 pleads for someone to help them.
+pleads for someone to save their family.
+pleads for someone to help the suffering people of a nearby town.
+pleads for someone to help find something / someone.
 has flown into a town and demanded tribute.
+has flown into a town and demanded sacrifices.
+has flown into a town and demanded obedience.
+has flown into a town and demanded the town's most valued treasure.
 is buried in a trap-filled tomb with their powerful magic items.
+is buried in a trap-filled tomb with their small team of adventurers.
+is buried in a trap-filled tomb with no effective weapons.
+is buried in a trap-filled tomb with an artifact rumored to have great power.
 are kidnapping potential sacrifices.
+are kidnapping potential slaves.
+are stealing treasures from every powerful family.
+are stealing goods from the vaults of powerful families.
 has developed a new type of golem.
+has developed a new type of food.
+has developed a new type of weapon.
+has developed a new type of currency.
 are being killed in their homes.
+are being killed when it gets dark.
+are being killed at their workplaces, but no one is seen.
+are being killed when they get near a certain location (such as a river).
 are constructing a fortress not far from the community.
+are constructing a farm not far from the community.
+are constructing a hamlet not far from the community.
+are constructing a tower (of some sort) not far from the community.
 has put a price on a good noble's head.
+has put a price on a normal citizen's head.
+has put a price on a politician's head.
+has put a price on a store owner's head.
 lies the Master Clock of Time.
 is preying upon sheep as well as shepherds.
+is preying upon livestock and their owners.
+is preying upon cats and kittens.
+is preying upon humans.
 must pass through an ankheg-infested wilderness.
+must pass through a zombie-infested wilderness.
+must pass through a dangerous mountain.
+must pass through a dangerous forest.
 has uncovered a previously unknown dungeon.
+has uncovered a previously unknown ruin.
+has uncovered a previously hidden relic of unknown origins.
+has uncovered a previously hidden statue.
 are being driven out of the sea to attack coastal villages.
 is in fact a magic portal.
+is in fact a disguised magical item / location.
 is sabotaging wagons and carts to come apart when they travel at high speed.
-sell faulty magic items in town and then attempt to slink away.
+is sabotaging the food of local guards so they lose consciousness and control of their bodies.
+is sabotaging the deliveries of local merchants such that goods are mixed up.
+is sabotaging local festivals and angering the gods.
+sell faulty magical equipment in town and then attempt to slink away.
+sell faulty restorative items in town and then attempt to slink away.
+sell faulty magical texts in town and then attempt to slink away.
+sell faulty ranged weapons in town and then attempt to slink away.
 are in the hands of bitter enemies; the third piece is lost.
 is turning innocent people into evil murderers.
 has wandered into a vast necropolis, and dusk approaches quickly.
