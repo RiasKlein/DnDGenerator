@@ -283,6 +283,9 @@ gather in secret to summon a forgotten shade to the world.
 gather in secret to revive an evil witch to the world.
 gather in secret to summon a monster to the world.
 faces a siege by a force of humans, duergar, and gnolls.
+faces a siege by a force of orcs.
+faces a siege by a force of elves.
+faces a siege by a force of humans.
 are demanding a toll on a well-traveled bridge.
 fall like rain on a major city.
 threatens to bring more demons to the world.
@@ -305,4 +308,10 @@ needs a champion to fight for her in a gladiatorial trial.
 is organizing monsters in an area.
 discovered they did not get what they expected.
 are stealing cattle from local farmers.
+are stealing crops from local farmers.
+are stealing money from local farmers.
+are stealing items from local store-owners.
 seeks to clear a patch of wilderness of all monsters.
+seeks to clear a patch of wilderness of all trees.
+seeks to clear a patch of wilderness of all living things.
+seeks to clear a patch of wilderness of all rocks.
