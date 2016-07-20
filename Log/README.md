@@ -3,7 +3,8 @@ This repository (will) contain various generators to assist D&D Dungeon Masters 
 
 ## Progress
 
-Generator Name | Status | Comment(s)
+Generator Name | Status | Description
 --- | --- | ---
-Rumors | Data Mining / Planning | Looking at various sources for scenarios
+Rumors | Functional / More content incoming | Produces randomly generated rumors
+Roll | Functional / Waiting on integration | Simulates dice rolls 
 
