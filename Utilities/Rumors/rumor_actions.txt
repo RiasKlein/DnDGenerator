@@ -196,29 +196,92 @@ sell faulty magical equipment in town and then attempt to slink away.
 sell faulty restorative items in town and then attempt to slink away.
 sell faulty magical texts in town and then attempt to slink away.
 sell faulty ranged weapons in town and then attempt to slink away.
-are in the hands of bitter enemies; the third piece is lost.
+are in the hands of bitter enemies.
+are trapped with enemies-turned-friends.
+are stuck under the sea.
 is turning innocent people into evil murderers.
+is turning innocent people into scammers.
+is turning innocent people into cultists.
+is turning innocent people into kidnappers.
 has wandered into a vast necropolis, and dusk approaches quickly.
+has wandered into a vast abandoned city, and dusk approaches quickly.
+has wandered into a vast city hidden in the mountains.
+has wandered into a vast cave, and dusk approaches quickly.
 has brought ghosts into town.
+has brought bandits into town.
+has brought zombies into town.
+has brought monsters into town.
 needs a particularly rare spell component found only in the deep jungle.
+needs a particularly rare spell component found only in a long forgotten city.
+needs a particularly rare spell component found only in a rumored city.
+needs a particularly rare spell component found only at the bottom of the sea.
 supposedly lies within an ancient ruined monastery.
+supposedly lies within an ancient monastery.
+supposedly lies within an ancient temple.
+supposedly lies within an ancient city.
 has let their rod of wonder fall into the wrong hands.
+has let their necklace of silence fall into the wrong hands.
+has let their shoes of silence fall into the wrong hands.
+has let their helmet of foresight fall into the wrong hands.
 are preying upon a small town.
+are preying upon a quiet hamlet.
+are preying upon an inn.
+are preying upon a mercenary group.
 have torn up a village in a violent rage.
+have torn up a town in a violent rage.
+have torn up a villager in a violent rage.
+have torn up a family in a violent rage.
 come from a haunted wood at night.
+come from an abandoned house at night.
+come from an ancient well at night.
+come from a hidden garden at night.
 challenges the ruling council.
+challenges the crafting guilds.
+challenges the local guards.
+challenges the secret guilds.
 is about to leave for a trip through a dangerous area.
+is about to leave for a trip to the bottom of the sea.
+is about to leave for a trip through a perilous mountain.
+is about to leave for a trip to a desert.
 are straying out of the desert to attack settlements.
+are straying out of the forest to attack settlements.
+are straying out of the sea to attack settlements.
+are straying out of the mountain to attack settlements.
+have not returned in a day.
 have not returned in a week.
+have not returned in a month.
+have not returned in a year.
 have long preyed upon people from within the sewers of a major city.
+have long preyed upon people when they are sleeping in a major city.
+have long preyed upon people when they walk into a quiet alley in a major city.
+have long preyed upon people when they are alone in a major city.
 steal a great treasure and flee into Mordenkainen's magnificent mansion.
-have been attacking the outskirts of a town.
+steal a special ordered piece of jewelry and flee into the slums.
+steal a unique weapon and flee into the middle class district.
+steal an important medicinal tonic and flee into the slums.
+have been attacking near the outskirts of a town.
+have been attacking in the slums of a town.
+have been attacking at night in a town.
+have been attacking right before daybreak in a town.
 sell their services as mercenaries to the highest bidder.
+sell their services as spies to the highest bidder.
+sell their services as assassins to the highest bidder.
+sell their services as thieves to the highest bidder.
 billows out of a cave near a mysterious ruin.
+billows out of a ground near a mysterious ruin.
 needs help defending her grove against goblins.
+needs help defending her grove against bandits.
+needs help defending her grove against orcs.
+needs help defending her grove against monsters.
 have discovered a huge, ghoul-filled catacomb under the cemetery.
+have discovered a huge, zombie-filled catacomb under the cemetery.
+have discovered a huge, bandit-filled catacomb under the cemetery.
+have discovered a huge, monster-filled catacomb under the cemetery.
 have disappeared.
 gather in secret to summon a monstrous god to the world.
+gather in secret to summon a forgotten shade to the world.
+gather in secret to revive an evil witch to the world.
+gather in secret to summon a monster to the world.
 faces a siege by a force of humans, duergar, and gnolls.
 are demanding a toll on a well-traveled bridge.
 fall like rain on a major city.
