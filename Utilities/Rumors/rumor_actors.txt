@@ -1,5 +1,9 @@
+# This is a comment - Comments follow the python standard of starting with a '#' symbol
+A bandit
+A barbarian
 A bard
 A blackguard
+A blacksmith
 A bulette
 A caravan of important goods
 A certain type of frogs, found only in an isolated valley,
@@ -9,6 +13,7 @@ A dragon
 A druid
 A fire elemental
 A gate to the Lower Planes
+A group of bandits
 A halfling caravan
 A haunted tower
 A huge dire wolf
@@ -19,17 +24,22 @@ A lonely mountain pass
 A major city
 A map showing the location of an ancient magic forge
 A mirror of opposition
+A monk
 A mysterious fog
 A nearby kingdom
 A new noble
+A paladin
 A paladin's quest for atonement
 A plague
+A potion
 A prophacy
 A recently recovered artifact
 A shapechanged mind flayer
 A sorcerer
 A strange green smoke
-A wizard
+A treasure-hunter
+A warlock
+A water elemental
 A wizard
 A wizard's guild
 A woman who mysteriously vanished years ago
@@ -37,10 +47,16 @@ A wronged half-elf
 Adventurers exploring a dungeon
 All the doors in the king's castle
 All the dwarves in an underground city
+All the fish in a small town
 An absentminded wizard
+An adventurer
+An air elemental
 An ancient curse
+An ancient evil
+An ancient lance
 An ancient sword
 An antidote to a magic poison
+An earth elemental
 An earthquake
 An emissary
 An enchanter
@@ -68,6 +84,7 @@ Lizardfolk riding dragon turtles
 Local bandits
 Local militia
 Miners
+Mysterious flashes of light
 Mysterious groaning noises
 Mysterious merchants
 New construction

@@ -18,8 +18,18 @@ Actors + Action
 Actors are the people or items that the rumor is describing.
 Actions decribe either what the players must do about the actors or what the actors are doing.
 
+When adding to the rumor generator, add to .txt files:
+	rumor_actions.txt
+	rumor_actors.txt
+	rumor_grammar.txt
+
+rumor_grammar contains pairs in the format: singular - plural
+If necessary, tweak the singular_keys list in genRumor.py to help identify actors as singular.
+
 ################################################################################
 #	Changelog
 ################################################################################
 
+7.1.16 14.33 - Cleaned up main function in genRumor.py
+7.1.16 12.08 - Added grammar correction subsystem to rumor generator
 6.30.16 12.26 - Rumors modified to have form: Actors + Action
