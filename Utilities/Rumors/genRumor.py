@@ -5,9 +5,7 @@
 #	Generates a rumor of the form Actor + Action using components from 
 #	files containing lists of actors and actions.
 #	Usage:
-#			python genRumor.py [actors filename] [actions filename]
-#
-#	If no filenames are provided, the default ones will be used.
+#			python genRumor.py [number of rumors]
 #
 ################################################################################
 
@@ -32,7 +30,7 @@ num_rumors_to_gen = 3
 
 def main():
 	# Initialize the data needed for generating rumors
-	initialize()
+	initialize()		
 	
 	# Output rumors
 	for x in range (num_rumors_to_gen):
@@ -52,7 +50,11 @@ def generateRumor():
 # initialize
 #	Loads proper files / data for program to function
 def initialize ():
-	updateFilenames()		# Use the provided filenames, if they were provided
+	#updateFilenames()		# Use the provided filenames, if they were provided
+
+	if len (sys.argv) > 1:
+		global num_rumors_to_gen
+		num_rumors_to_gen = int(sys.argv[1])
 	
 	# Read in the actors and actions files
 	readFiletoList ( actors_filename, actors_list )
