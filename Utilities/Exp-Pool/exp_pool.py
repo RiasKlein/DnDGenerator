@@ -24,7 +24,6 @@
 import sys
 
 xp_tables_filename = 'xp_thresholds.txt'
-
 xp_tables = []
 
 # Multipliers
@@ -41,9 +40,13 @@ party_size = -1
 enemy_count = 1
 
 def main():
-	checkArgs()
-	initialize()
-
+	checkArgs()				# verify that we have the necessary arguments to run
+	initialize()			# set up the program by loading in the xp tables
+	output_exp_pool ()		# calculate and print the exp pool for the encounter
+	
+# output_exp_pool
+#	Calculates and outputs (via std.out) the exp pool for the encounter
+def output_exp_pool ():
 	multiplier = calculate_multiplier (enemy_count)
 
 	# Find the entry in xp_tables for the desired level
@@ -51,15 +54,13 @@ def main():
 	for entry in xp_tables:
 		if entry[0] == level:
 			print ("Party Size: " + str(party_size) + "\tLevel: " + str(level))
-			print ("Easy\t| Medium | Hard\t| Deadly")
-
+			print ("| {0:7} |  {1:7} |  {2:7} |  {3:7} |".format('Easy', 'Medium', 'Hard', 'Deadly'))
+			
 			for i in range (len (entry)):
-				entry[i] = entry[i] * party_size * multiplier
-
-			print ("" + str(entry[1]) + '\t' + str(entry[2]) + '\t' + str(entry[3]) + '\t' + str(entry[4]))
-
-
-
+				entry[i] = int(float(entry[i]) * float(party_size) / float(multiplier))
+				
+			print ("| {0:7} |  {1:7} |  {2:7} |  {3:7} |".format(str(entry[1]), str(entry[2]), str(entry[3]), str(entry[4])))
+			
 # calculate_multiplier
 # 	Returns the proper multiplier to use for the current setup
 def calculate_multiplier ( enemy_count ):
