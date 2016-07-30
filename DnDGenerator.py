@@ -4,7 +4,7 @@
 #
 #	This takes in inputs from the user and launches the proper utilities.
 #
-#	Version: 0.2
+#	Version: 0.21
 #	
 #	Program by Shunman Tse
 #
@@ -16,7 +16,7 @@ import sys, os, subprocess
 
 # Settings for the initial print of the program
 system_title = 'DnDGenerator'	# Title of the program
-system_version = '0.2'			# Version
+system_version = '0.21'			# Version
 system_title_buffer = 20		# The amount of buffer space when printing the title of the program
 
 # Settings for the function of the program
@@ -99,7 +99,7 @@ def print_valid_functions():
 	print ("The following functions are supported in this version.")
 	print ("   {0:17} |    {1:10}".format('Function', 'Usage'))
 	print ("{0:20} | Calculates the exp-pool for a party setup".format('exp_pool'))
-	print ("{0:8} or {0:8} | Generates random rumors".format('genRumor', 'rumor'))
+	print ("{0:8} or {1:8} | Generates random rumors".format('genRumor', 'rumor'))
 	print ("{0:20} | Generates a specified roll of dice.".format('roll'))
 
 # handle_roll
