@@ -4,7 +4,7 @@
 #
 #	This takes in inputs from the user and launches the proper utilities.
 #
-#	Version: 0.21
+#	Version: 0.22
 #	
 #	Program by Shunman Tse
 #
@@ -16,11 +16,11 @@ import sys, os, subprocess
 
 # Settings for the initial print of the program
 system_title = 'DnDGenerator'	# Title of the program
-system_version = '0.21'			# Version
+system_version = '0.22'			# Version
 system_title_buffer = 20		# The amount of buffer space when printing the title of the program
 
 # Settings for the function of the program
-supported_functions = ['exp_pool', 'roll', 'genRumor', 'rumor']
+supported_functions = ['exp_pool', 'roll', 'genrumor', 'rumor']
 built_in_functions = ['help', 'exit']
 
 def main():
@@ -44,7 +44,7 @@ def handle_input (user_input):
 	if user_input[0] in supported_functions:
 		if user_input[0] == 'roll':
 			handle_roll(user_input)
-		if user_input[0] == 'genRumor' or user_input[0] == 'rumor':
+		if user_input[0] == 'genrumor' or user_input[0] == 'rumor':
 			handle_rumor(user_input)
 		if user_input[0] == 'exp_pool':
 			handle_exp_pool (user_input)
